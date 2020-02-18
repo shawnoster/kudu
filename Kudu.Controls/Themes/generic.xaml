@@ -1,0 +1,23 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:vsm="clr-namespace:System.Windows;assembly=System.Windows"
+                    xmlns:local="clr-namespace:Kudu.Controls">
+    
+    <Style TargetType="local:MetroRating">
+        <Setter Property="HorizontalAlignment"
+                Value="Left" />
+        <Setter Property="Margin"
+                Value="12" />
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate>
+                    <Image x:Name="Image"
+                           Width="96"
+                           Height="15"
+                           Stretch="None" />
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+</ResourceDictionary>

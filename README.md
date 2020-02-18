@@ -1,2 +1,4 @@
-# kudu
-Goodreads Windows Phone 7 client
+# Kudu
+
+A Goodreads client for Windows Phone
+Created by Shawn Oster

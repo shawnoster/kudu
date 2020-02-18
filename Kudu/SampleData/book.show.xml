@@ -1,0 +1,197 @@
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[vdVu4GIH2tBIUe5YXbQkg]]></key>
+    <method><![CDATA[book_show]]></method>
+  </Request>
+  <book>
+    <id>4703553</id>
+    <title><![CDATA[The Cold Commands (A Land Fit for Heroes, #2)]]></title>
+    <isbn><![CDATA[057507793X]]></isbn>
+    <isbn13><![CDATA[9780575077935]]></isbn13>
+    <asin><![CDATA[]]></asin>
+    <image_url>http://photo.goodreads.com/books/1318443315m/4703553.jpg</image_url>
+    <small_image_url>http://photo.goodreads.com/books/1318443315s/4703553.jpg</small_image_url>
+    <publication_year>2011</publication_year>
+    <publication_month>10</publication_month>
+    <publication_day>13</publication_day>
+    <publisher>Gollancz</publisher>
+    <language_code>eng</language_code>
+    <is_ebook>false</is_ebook>
+    <description><![CDATA[Ringil Eskiath, scarred wielder of the kiriath-forged broadsword Ravensfriend, is a man on the run from his past and the family who have disowned him, from the slave trade magnates of Trelayne who want him dead, and apparently from the dark gods themselves, who are taking an interest but making no more sense than they ever have. Outlawed and exiled from his ancestral home in the north, Ringil has only one place left to turn Yhelteth, city heart of the southern Empire, where perhaps he can seek asylum with the kiriath half-breed Archeth Indamaninarmal, former war comrade and now high-up advisor to the Emperor Jhiral Khimran II. But Archeth Indamaninarmal has problems of her own to contend with, as does her house guest, bodyguard and one time steppe nomad Egar the Dragonbane. And far from gaining the respite he is seeks, Ringil will instead find himself implicated in fresh schemes and doubtful allegiances no safer than those he has left behind. Old enemies are stirring, the old order is rotted through and crumbling, and though no-one yet knows it, the city of Yhelteth is about to explode.]]></description>
+    <work>
+      <best_book_id type="integer">4703553</best_book_id>
+      <books_count type="integer">14</books_count>
+      <id type="integer">4767881</id>
+      <media_type>book</media_type>
+      <original_language_id type="integer" nil="true"></original_language_id>
+      <original_publication_day type="integer" nil="true"></original_publication_day>
+      <original_publication_month type="integer" nil="true"></original_publication_month>
+      <original_publication_year type="integer" nil="true"></original_publication_year>
+      <original_title></original_title>
+      <rating_dist>5:80|4:147|3:79|2:21|1:5|total:332</rating_dist>
+      <ratings_count type="integer">333</ratings_count>
+      <ratings_sum type="integer">1278</ratings_sum>
+      <reviews_count type="integer">1053</reviews_count>
+      <text_reviews_count type="integer">95</text_reviews_count>
+    </work>
+    <average_rating><![CDATA[3.84]]></average_rating>
+    <num_pages><![CDATA[407]]></num_pages>
+    <format><![CDATA[Hardcover]]></format>
+    <edition_information><![CDATA[]]></edition_information>
+    <ratings_count><![CDATA[284]]></ratings_count>
+    <text_reviews_count><![CDATA[81]]></text_reviews_count>
+    <url><![CDATA[http://www.goodreads.com/book/show/4703553-the-cold-commands]]></url>
+    <link><![CDATA[http://www.goodreads.com/book/show/4703553-the-cold-commands]]></link>
+    <authors>
+      <author>
+        <id>16496</id>
+        <name><![CDATA[Richard K. Morgan]]></name>
+        <image_url><![CDATA[http://photo.goodreads.com/authors/1175224722p5/16496.jpg]]></image_url>
+        <small_image_url><![CDATA[http://photo.goodreads.com/authors/1175224722p2/16496.jpg]]></small_image_url>
+        <link><![CDATA[http://www.goodreads.com/author/show/16496.Richard_K_Morgan]]></link>
+        <average_rating>3.92</average_rating>
+        <ratings_count>19924</ratings_count>
+        <text_reviews_count>1793</text_reviews_count>
+      </author>
+    </authors>
+    <reviews_widget><![CDATA[
+        <style>
+  #goodreads-widget {
+    font-family: georgia, serif;
+    padding: 18px 0;
+    width:565px;
+  }
+  #goodreads-widget h1 {
+    font-weight:normal;
+    font-size: 16px;
+    border-bottom: 1px solid #BBB596;
+    margin-bottom: 0;
+  }
+  #goodreads-widget a {
+    text-decoration: none;
+    color:#660;
+  }
+  iframe{
+    background-color: #fff;
+  }
+  #goodreads-widget a:hover { text-decoration: underline; }
+  #goodreads-widget a:active {
+    color:#660;
+  }
+  #gr_footer {
+    width: 100%;
+    border-top: 1px solid #BBB596;
+    text-align: right;
+  }
+  #goodreads-widget .gr_branding{
+    color: #382110;
+    font-size: 11px;
+    text-decoration: none;
+    font-family: verdana, arial, helvetica, sans-serif;
+  }
+</style>
+<div id="goodreads-widget">
+  <div id="gr_header"><h1><a href="http://www.goodreads.com/book/show/4703553-the-cold-commands">The Cold Commands Reviews</a></h1></div>
+  <iframe id="the_iframe" src="http://www.goodreads.com/api/reviews_widget_iframe?did=DEVELOPER_ID&amp;isbn=057507793X&amp;links=660&amp;min_rating=&amp;review_back=fff&amp;text=000" width="565" height="400" frameborder="0"></iframe>
+  <div id="gr_footer">
+    <a href="http://www.goodreads.com/book/show/4703553-the-cold-commands?utm_medium=api&amp;utm_source=reviews_widget" class="gr_branding" target="_blank">Reviews from Goodreads.com</a>
+  </div>
+</div>
+
+      ]]></reviews_widget>
+    <popular_shelves>
+      <shelf name="to-read" count="612" />
+      <shelf name="fantasy" count="66" />
+      <shelf name="currently-reading" count="52" />
+      <shelf name="2011" count="12" />
+      <shelf name="fiction" count="6" />
+      <shelf name="favorites" count="5" />
+      <shelf name="m-m" count="5" />
+      <shelf name="to-buy" count="5" />
+      <shelf name="science-fiction" count="4" />
+      <shelf name="sci-fi" count="4" />
+    </popular_shelves>
+    <book_links>
+      <book_link>
+        <id>8</id>
+        <name><![CDATA[WorldCat]]></name>
+        <link>http://www.goodreads.com/book_link/follow/8?book_id=4703553</link>
+      </book_link>
+      <book_link>
+        <id>1027</id>
+        <name><![CDATA[Kobo]]></name>
+        <link>http://www.goodreads.com/book_link/follow/1027?book_id=4703553</link>
+      </book_link>
+      <book_link>
+        <id>9</id>
+        <name><![CDATA[Indigo]]></name>
+        <link>http://www.goodreads.com/book_link/follow/9?book_id=4703553</link>
+      </book_link>
+      <book_link>
+        <id>4</id>
+        <name><![CDATA[Abebooks]]></name>
+        <link>http://www.goodreads.com/book_link/follow/4?book_id=4703553</link>
+      </book_link>
+      <book_link>
+        <id>2</id>
+        <name><![CDATA[Half.com]]></name>
+        <link>http://www.goodreads.com/book_link/follow/2?book_id=4703553</link>
+      </book_link>
+      <book_link>
+        <id>10</id>
+        <name><![CDATA[Audible]]></name>
+        <link>http://www.goodreads.com/book_link/follow/10?book_id=4703553</link>
+      </book_link>
+      <book_link>
+        <id>5</id>
+        <name><![CDATA[Alibris]]></name>
+        <link>http://www.goodreads.com/book_link/follow/5?book_id=4703553</link>
+      </book_link>
+      <book_link>
+        <id>2102</id>
+        <name><![CDATA[iBookstore]]></name>
+        <link>http://www.goodreads.com/book_link/follow/2102?book_id=4703553</link>
+      </book_link>
+      <book_link>
+        <id>1602</id>
+        <name><![CDATA[Google eBooks]]></name>
+        <link>http://www.goodreads.com/book_link/follow/1602?book_id=4703553</link>
+      </book_link>
+      <book_link>
+        <id>107</id>
+        <name><![CDATA[Better World Books]]></name>
+        <link>http://www.goodreads.com/book_link/follow/107?book_id=4703553</link>
+      </book_link>
+      <book_link>
+        <id>7</id>
+        <name><![CDATA[IndieBound]]></name>
+        <link>http://www.goodreads.com/book_link/follow/7?book_id=4703553</link>
+      </book_link>
+      <book_link>
+        <id>1</id>
+        <name><![CDATA[Amazon]]></name>
+        <link>http://www.goodreads.com/book_link/follow/1?book_id=4703553</link>
+      </book_link>
+    </book_links>
+    <series_works>
+      <series_work>
+        <id>167938</id>
+        <user_position>2</user_position>
+        <series>
+          <id>45822</id>
+          <title><![CDATA[
+    A Land Fit for Heroes
+]]></title>
+          <description><![CDATA[
+]]></description>
+          <note><![CDATA[
+]]></note>
+          <series_works_count>2</series_works_count>
+          <primary_work_count>2</primary_work_count>
+          <numbered>true</numbered>
+        </series>
+      </series_work>
+    </series_works>
+  </book>
+</GoodreadsResponse>

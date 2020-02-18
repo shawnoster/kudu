@@ -1,0 +1,1549 @@
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[vdVu4GIH2tBIUe5YXbQkg]]></key>
+    <method><![CDATA[home_friend_updates]]></method>
+  </Request>
+  <updates type="array">
+    <update type="review">
+      <action_text><![CDATA[gave 4 stars to: <a href="http://www.goodreads.com/book/show/49628.Cloud_Atlas">Cloud Atlas (Paperback)</a> by <a href="http://www.goodreads.com/author/show/4565.David_Mitchell">David Mitchell</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/162517230</link>
+      <image_url>http://photo.goodreads.com/books/1320480930s/49628.jpg</image_url>
+      <actor>
+        <id type="integer">974673</id>
+        <name>Natalie Wilkins</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/974673-natalie</link>
+      </actor>
+      <updated_at>Sun, 22 Jan 2012 14:21:17 -0800</updated_at>
+      <action type="rating">
+        <rating>4</rating>
+      </action>
+      <object>
+        <book>
+          <id>49628</id>
+          <title><![CDATA[Cloud Atlas]]></title>
+          <link>http://www.goodreads.com/book/show/49628.Cloud_Atlas</link>
+          <authors>
+            <author>
+              <id>4565</id>
+              <name><![CDATA[David Mitchell]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1277505879p5/4565.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1277505879p2/4565.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/4565.David_Mitchell]]></link>
+              <average_rating>4.05</average_rating>
+              <ratings_count>45721</ratings_count>
+              <text_reviews_count>7684</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[is currently reading: <a href="http://www.goodreads.com/book/show/119835.Angel_Seeker">Angel-Seeker (Samaria, #5)</a> by <a href="http://www.goodreads.com/author/show/28544.Sharon_Shinn">Sharon Shinn</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/263890003</link>
+      <image_url>http://photo.goodreads.com/books/1309285837s/119835.jpg</image_url>
+      <actor>
+        <id type="integer">4284040</id>
+        <name>Alia</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/4284040-alia</link>
+      </actor>
+      <updated_at>Wed, 18 Jan 2012 07:40:53 -0800</updated_at>
+      <action type="added">
+        <shelf name="currently-reading" />
+      </action>
+      <object>
+        <book>
+          <id>119835</id>
+          <title><![CDATA[Angel-Seeker (Samaria, #5)]]></title>
+          <link>http://www.goodreads.com/book/show/119835.Angel_Seeker</link>
+          <authors>
+            <author>
+              <id>28544</id>
+              <name><![CDATA[Sharon Shinn]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1218995575p5/28544.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1218995575p2/28544.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/28544.Sharon_Shinn]]></link>
+              <average_rating>3.82</average_rating>
+              <ratings_count>35708</ratings_count>
+              <text_reviews_count>3550</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 4 stars to: <a href="http://www.goodreads.com/book/show/6746018-the-distant-hours">The Distant Hours (Hardcover)</a> by <a href="http://www.goodreads.com/author/show/615274.Kate_Morton">Kate Morton</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/252498539</link>
+      <image_url>http://photo.goodreads.com/books/1287702015s/6746018.jpg</image_url>
+      <actor>
+        <id type="integer">4284040</id>
+        <name>Alia</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/4284040-alia</link>
+      </actor>
+      <updated_at>Wed, 18 Jan 2012 07:40:16 -0800</updated_at>
+      <action type="rating">
+        <rating>4</rating>
+      </action>
+      <object>
+        <book>
+          <id>6746018</id>
+          <title><![CDATA[The Distant Hours]]></title>
+          <link>http://www.goodreads.com/book/show/6746018-the-distant-hours</link>
+          <authors>
+            <author>
+              <id>615274</id>
+              <name><![CDATA[Kate Morton]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1303173047p5/615274.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1303173047p2/615274.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/615274.Kate_Morton]]></link>
+              <average_rating>3.96</average_rating>
+              <ratings_count>56021</ratings_count>
+              <text_reviews_count>11064</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/97964.Angelica">Angelica (Samaria, #4)</a> by <a href="http://www.goodreads.com/author/show/28544.Sharon_Shinn">Sharon Shinn</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/197823824</link>
+      <image_url>http://photo.goodreads.com/books/1309288516s/97964.jpg</image_url>
+      <actor>
+        <id type="integer">4284040</id>
+        <name>Alia</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/4284040-alia</link>
+      </actor>
+      <updated_at>Wed, 18 Jan 2012 07:40:12 -0800</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>97964</id>
+          <title><![CDATA[Angelica (Samaria, #4)]]></title>
+          <link>http://www.goodreads.com/book/show/97964.Angelica</link>
+          <authors>
+            <author>
+              <id>28544</id>
+              <name><![CDATA[Sharon Shinn]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1218995575p5/28544.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1218995575p2/28544.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/28544.Sharon_Shinn]]></link>
+              <average_rating>3.82</average_rating>
+              <ratings_count>35708</ratings_count>
+              <text_reviews_count>3550</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/9361589-the-night-circus">The Night Circus (Hardcover)</a> by <a href="http://www.goodreads.com/author/show/4370565.Erin_Morgenstern">Erin Morgenstern</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/263408624</link>
+      <image_url>http://photo.goodreads.com/books/1320508797s/9361589.jpg</image_url>
+      <actor>
+        <id type="integer">1254616</id>
+        <name>Nick Harkaway</name>
+        <image_url>http://photo.goodreads.com/users/1326802264p2/1254616.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/1254616-nick</link>
+      </actor>
+      <updated_at>Tue, 17 Jan 2012 08:56:48 -0800</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>9361589</id>
+          <title><![CDATA[The Night Circus]]></title>
+          <link>http://www.goodreads.com/book/show/9361589-the-night-circus</link>
+          <authors>
+            <author>
+              <id>4370565</id>
+              <name><![CDATA[Erin Morgenstern]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1316440077p5/4370565.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1316440077p2/4370565.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/4370565.Erin_Morgenstern]]></link>
+              <average_rating>4.05</average_rating>
+              <ratings_count>28785</ratings_count>
+              <text_reviews_count>7180</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[Okay, quick confessions:
+<br/>
+<br/>1. I was sent this book in proof. I've since purchased it, but yes, I was given a copy by the publisher. Consider me blandished.
+<br/>
+<br/>2. Erin has just blurbed (wonderfully) for <a href="http://www.goodreads.com/book/show/9860471.Angelmaker" title="Angelmaker by Nick Harkaway">Angelmaker</a>, which raises the spectre of this being a sort of incestuous quid pro ...<a href="http://www.goodreads.com/review/show/263408624">more...</a>]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[is currently reading: <a href="http://www.goodreads.com/book/show/90413.Queen_Of_The_South">Queen Of The South</a> by <a href="http://www.goodreads.com/author/show/40398.Arturo_P_rez_Reverte">Arturo Pérez-Reverte</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/240774791</link>
+      <image_url>http://photo.goodreads.com/books/1171206681s/90413.jpg</image_url>
+      <actor>
+        <id type="integer">974673</id>
+        <name>Natalie Wilkins</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/974673-natalie</link>
+      </actor>
+      <updated_at>Tue, 10 Jan 2012 15:44:10 -0800</updated_at>
+      <action type="added">
+        <shelf name="currently-reading" />
+      </action>
+      <object>
+        <book>
+          <id>90413</id>
+          <title><![CDATA[Queen Of The South]]></title>
+          <link>http://www.goodreads.com/book/show/90413.Queen_Of_The_South</link>
+          <authors>
+            <author>
+              <id>40398</id>
+              <name><![CDATA[Arturo Pérez-Reverte]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1223406250p5/40398.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1223406250p2/40398.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/40398.Arturo_P_rez_Reverte]]></link>
+              <average_rating>3.67</average_rating>
+              <ratings_count>24605</ratings_count>
+              <text_reviews_count>2510</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/9361589-the-night-circus">The Night Circus (Hardcover)</a> by <a href="http://www.goodreads.com/author/show/4370565.Erin_Morgenstern">Erin Morgenstern</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/241607805</link>
+      <image_url>http://photo.goodreads.com/books/1320508797s/9361589.jpg</image_url>
+      <actor>
+        <id type="integer">974673</id>
+        <name>Natalie Wilkins</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/974673-natalie</link>
+      </actor>
+      <updated_at>Tue, 10 Jan 2012 15:42:54 -0800</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>9361589</id>
+          <title><![CDATA[The Night Circus]]></title>
+          <link>http://www.goodreads.com/book/show/9361589-the-night-circus</link>
+          <authors>
+            <author>
+              <id>4370565</id>
+              <name><![CDATA[Erin Morgenstern]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1316440077p5/4370565.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1316440077p2/4370565.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/4370565.Erin_Morgenstern]]></link>
+              <average_rating>4.05</average_rating>
+              <ratings_count>28785</ratings_count>
+              <text_reviews_count>7180</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[marked as to-read: <a href="http://www.goodreads.com/book/show/10357575-1q84">1Q84 (Hardcover)</a> by <a href="http://www.goodreads.com/author/show/3354.Haruki_Murakami">Haruki Murakami</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/258338019</link>
+      <image_url>http://photo.goodreads.com/books/1316729331s/10357575.jpg</image_url>
+      <actor>
+        <id type="integer">974673</id>
+        <name>Natalie Wilkins</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/974673-natalie</link>
+      </actor>
+      <updated_at>Sun, 08 Jan 2012 05:36:55 -0800</updated_at>
+      <action type="added">
+        <shelf name="to-read" />
+      </action>
+      <object>
+        <book>
+          <id>10357575</id>
+          <title><![CDATA[1Q84]]></title>
+          <link>http://www.goodreads.com/book/show/10357575-1q84</link>
+          <authors>
+            <author>
+              <id>3354</id>
+              <name><![CDATA[Haruki Murakami]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1285812707p5/3354.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1285812707p2/3354.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
+              <average_rating>3.95</average_rating>
+              <ratings_count>254778</ratings_count>
+              <text_reviews_count>23559</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[marked as to-read: <a href="http://www.goodreads.com/book/show/2302437.The_Beautiful_Things_That_Heaven_Bears">The Beautiful Things That Heaven Bears (Paperback)</a> by <a href="http://www.goodreads.com/author/show/135726.Dinaw_Mengestu">Dinaw Mengestu</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/258337530</link>
+      <image_url>http://photo.goodreads.com/books/1255739219s/2302437.jpg</image_url>
+      <actor>
+        <id type="integer">974673</id>
+        <name>Natalie Wilkins</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/974673-natalie</link>
+      </actor>
+      <updated_at>Sun, 08 Jan 2012 05:34:55 -0800</updated_at>
+      <action type="added">
+        <shelf name="to-read" />
+      </action>
+      <object>
+        <book>
+          <id>2302437</id>
+          <title><![CDATA[The Beautiful Things That Heaven Bears]]></title>
+          <link>http://www.goodreads.com/book/show/2302437.The_Beautiful_Things_That_Heaven_Bears</link>
+          <authors>
+            <author>
+              <id>135726</id>
+              <name><![CDATA[Dinaw Mengestu]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1281737608p5/135726.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1281737608p2/135726.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/135726.Dinaw_Mengestu]]></link>
+              <average_rating>3.45</average_rating>
+              <ratings_count>3002</ratings_count>
+              <text_reviews_count>737</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/7445.The_Glass_Castle">The Glass Castle (Paperback)</a> by <a href="http://www.goodreads.com/author/show/3275.Jeannette_Walls">Jeannette Walls</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/87031171</link>
+      <image_url>http://photo.goodreads.com/books/1165613865s/7445.jpg</image_url>
+      <actor>
+        <id type="integer">974673</id>
+        <name>Natalie Wilkins</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/974673-natalie</link>
+      </actor>
+      <updated_at>Mon, 02 Jan 2012 03:28:26 -0800</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>7445</id>
+          <title><![CDATA[The Glass Castle]]></title>
+          <link>http://www.goodreads.com/book/show/7445.The_Glass_Castle</link>
+          <authors>
+            <author>
+              <id>3275</id>
+              <name><![CDATA[Jeannette Walls]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1188356528p5/3275.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1188356528p2/3275.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/3275.Jeannette_Walls]]></link>
+              <average_rating>4.11</average_rating>
+              <ratings_count>192358</ratings_count>
+              <text_reviews_count>27833</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="comment">
+      <action_text><![CDATA[<a href="http://www.goodreads.com/user/show/974673-natalie">Natalie</a> commented on Natalie's review]]></action_text>
+      <link>http://www.goodreads.com/review/show/87031171</link>
+      <image_url>http://photo.goodreads.com/books/1165613865s/7445.jpg</image_url>
+      <actor>
+        <id type="integer">974673</id>
+        <name>Natalie Wilkins</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/974673-natalie</link>
+      </actor>
+      <updated_at>Sun, 01 Jan 2012 13:59:53 -0800</updated_at>
+      <body><![CDATA[I'm 68% through it in one day so far! I feel bad because it's beautiful outside and I've been sitting on the couch reading all day.]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[marked as to-read: <a href="http://www.goodreads.com/book/show/2967752-the-elegance-of-the-hedgehog">The Elegance of the Hedgehog (Paperback)</a> by <a href="http://www.goodreads.com/author/show/643126.Muriel_Barbery">Muriel Barbery</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/254353523</link>
+      <image_url>http://photo.goodreads.com/books/1308970104s/2967752.jpg</image_url>
+      <actor>
+        <id type="integer">974673</id>
+        <name>Natalie Wilkins</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/974673-natalie</link>
+      </actor>
+      <updated_at>Sun, 01 Jan 2012 13:37:51 -0800</updated_at>
+      <action type="added">
+        <shelf name="to-read" />
+      </action>
+      <object>
+        <book>
+          <id>2967752</id>
+          <title><![CDATA[The Elegance of the Hedgehog]]></title>
+          <link>http://www.goodreads.com/book/show/2967752-the-elegance-of-the-hedgehog</link>
+          <authors>
+            <author>
+              <id>643126</id>
+              <name><![CDATA[Muriel Barbery]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1262638110p5/643126.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1262638110p2/643126.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/643126.Muriel_Barbery]]></link>
+              <average_rating>3.61</average_rating>
+              <ratings_count>34541</ratings_count>
+              <text_reviews_count>8132</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 3 stars to: <a href="http://www.goodreads.com/book/show/386378.American_Pastoral">American Pastoral (Paperback)</a> by <a href="http://www.goodreads.com/author/show/463.Philip_Roth">Philip Roth</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/193054001</link>
+      <image_url>http://photo.goodreads.com/books/1326019762s/386378.jpg</image_url>
+      <actor>
+        <id type="integer">974673</id>
+        <name>Natalie Wilkins</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/974673-natalie</link>
+      </actor>
+      <updated_at>Sat, 31 Dec 2011 13:43:53 -0800</updated_at>
+      <action type="rating">
+        <rating>3</rating>
+      </action>
+      <object>
+        <book>
+          <id>386378</id>
+          <title><![CDATA[American Pastoral]]></title>
+          <link>http://www.goodreads.com/book/show/386378.American_Pastoral</link>
+          <authors>
+            <author>
+              <id>463</id>
+              <name><![CDATA[Philip Roth]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1287938301p5/463.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1287938301p2/463.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/463.Philip_Roth]]></link>
+              <average_rating>3.66</average_rating>
+              <ratings_count>81135</ratings_count>
+              <text_reviews_count>8233</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="userstatus">
+      <action_text><![CDATA[is 80% done with <a href="http://www.goodreads.com/book/show/97964">Angelica</a>]]></action_text>
+      <link>http://www.goodreads.com/user_status/show/10107200</link>
+      <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+      <actor>
+        <id type="integer">4284040</id>
+        <name>Alia</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/4284040-alia</link>
+      </actor>
+      <updated_at>Wed, 28 Dec 2011 19:59:47 -0800</updated_at>
+      <object>
+        <user_status>
+          <body></body>
+          <book_id type="integer">97964</book_id>
+          <chapter type="integer" nil="true"></chapter>
+          <comments_count type="integer">0</comments_count>
+          <created_at type="datetime">2011-12-28T19:59:47-08:00</created_at>
+          <id type="integer">10107200</id>
+          <last_comment_at type="datetime" nil="true"></last_comment_at>
+          <page type="integer" nil="true"></page>
+          <percent type="integer">80</percent>
+          <ratings_count type="integer">0</ratings_count>
+          <updated_at type="datetime">2011-12-28T19:59:47-08:00</updated_at>
+          <user_id type="integer">4284040</user_id>
+          <work_id type="integer">2726</work_id>
+          <review_id type="integer">197823824</review_id>
+          <book>
+            <asin nil="true"></asin>
+            <author_id type="integer">28544</author_id>
+            <author_id_updater_user_id type="integer">-40</author_id_updater_user_id>
+            <author_role nil="true"></author_role>
+            <author_role_updater_user_id type="integer">244267</author_role_updater_user_id>
+            <book_authors_count type="integer">0</book_authors_count>
+            <created_at type="datetime">2007-02-13T14:39:03-08:00</created_at>
+            <description nil="true"></description>
+            <description_updater_user_id type="integer">346303</description_updater_user_id>
+            <edition_information nil="true"></edition_information>
+            <edition_information_updater_user_id type="integer" nil="true"></edition_information_updater_user_id>
+            <format>Paperback</format>
+            <format_updater_user_id type="integer">-40</format_updater_user_id>
+            <id type="integer">97964</id>
+            <image_updater_user_id type="integer">-40</image_updater_user_id>
+            <image_uploaded_at type="datetime">2011-06-28T12:15:16-07:00</image_uploaded_at>
+            <isbn>0441011462</isbn>
+            <isbn13>9780441011469</isbn13>
+            <isbn13_updater_user_id type="integer">-40</isbn13_updater_user_id>
+            <isbn_updater_user_id type="integer">-40</isbn_updater_user_id>
+            <language_code>eng</language_code>
+            <language_updater_user_id type="integer">-110</language_updater_user_id>
+            <num_pages type="integer">560</num_pages>
+            <num_pages_updater_user_id type="integer">-40</num_pages_updater_user_id>
+            <publication_date_updater_user_id type="integer">-40</publication_date_updater_user_id>
+            <publication_day type="integer">24</publication_day>
+            <publication_month type="integer">2</publication_month>
+            <publication_year type="integer">2004</publication_year>
+            <publisher>Ace</publisher>
+            <publisher_updater_user_id type="integer">-40</publisher_updater_user_id>
+            <ratings_count type="integer">1504</ratings_count>
+            <ratings_sum type="integer">5836</ratings_sum>
+            <reviews_count type="integer">2011</reviews_count>
+            <s3_image_at type="datetime">2011-06-28T12:15:17-07:00</s3_image_at>
+            <sort_by_title>angelica (samaria, #4)</sort_by_title>
+            <source_url nil="true"></source_url>
+            <text_reviews_count type="integer">58</text_reviews_count>
+            <title>Angelica (Samaria, #4)</title>
+            <title_updater_user_id type="integer">244267</title_updater_user_id>
+            <updated_at type="datetime">2012-02-22T20:04:43-08:00</updated_at>
+            <url nil="true"></url>
+            <url_updater_user_id type="integer" nil="true"></url_updater_user_id>
+            <work_id type="integer">2726</work_id>
+            <author>
+              <about>I’ve been writing stories and poems since I was eight years old. My first poem was about Halloween: "What is tonight? What is tonight?/Try to guess and you’ll guess right." Perhaps this inauspicious beginning explains why it took me till I was in my thirties to sell a novel. It occurred to me early on that it might take some time and a lot of tries before I was able to publish any of my creative writing, so I pursued a degree in journalism at Northwestern University so I’d be able to support myself while I figured out how to write fiction.
+
+I’ve spent most of my journalism career at three trade and association magazines—The Professional Photographer (which, as you might guess, went to studio and industrial photographers), DECOR (which went to frame shop and art gallery owners), and BizEd (which is directed at deans and professors at business schools). My longest stint, seventeen years, was at DECOR. Many people don’t know this, but I’m a CPF (Certified Picture Framer), having passed a very long, technical test to prove I understood the tenets of conservation framing. Now I write about management education and interview some really cool, really smart people from all over the world.
+
+I mostly write my fiction in the evenings and on weekends. It requires a pretty obsessive-compulsive personality to be as prolific as I’ve been in the past ten years and hold down a full-time job. But I do manage to tear myself away from the computer now and then to do something fun. I read as often as I can, across all genres, though I’m most often holding a book that’s fantasy or romance, with the occasional western thrown in. I’m a fan of Cardinals baseball and try to be at the ballpark on opening day. If I had the time, I’d see a movie every day of my life. I love certain TV shows so much that knowing a new episode is going to air that night will make me happy all day. (I’m a huge Joss Whedon fan, but in the past I’ve given my heart to shows all over the map in terms of quality: "Knight Rider," "Remington Steele," "Blake’s 7," "Moonlighting," "The Young Riders," "Cheers," "Hill Street Blues," "X-Files," "Lost," "Battlestar Galactica"...you can probably fill in the gaps. And let’s not forget my very first loves, "The Partridge Family," "Here Come the Brides" and "Alias Smith &amp; Jones.")
+
+I don’t have kids, I don’t want pets, and all my plants die, so I’m really only forced to provide ongoing care for my menagerie of stuffed animals. All my friends are animal lovers, though, and someone once theorized that I keep friends as pets. I’m still trying to decide if that’s true.
+
+</about>
+              <author_program_at type="datetime" nil="true"></author_program_at>
+              <best_book_id type="integer">97961</best_book_id>
+              <books_count type="integer">130</books_count>
+              <born_at type="datetime">1957-01-01T00:00:00-08:00</born_at>
+              <country_code>US</country_code>
+              <created_at type="datetime">2007-02-01T15:07:52-08:00</created_at>
+              <died_at type="datetime" nil="true"></died_at>
+              <fanships_count type="integer">517</fanships_count>
+              <gender>F</gender>
+              <genre1>Science Fiction &amp; Fantasy</genre1>
+              <genre2>Romance</genre2>
+              <genre3>Young Adult</genre3>
+              <hometown></hometown>
+              <id type="integer">28544</id>
+              <image_copyright>http://www.fantasticfiction.co.uk/s/sharon-shinn/</image_copyright>
+              <image_uploaded_at type="datetime">2008-08-17T10:52:55-07:00</image_uploaded_at>
+              <influences></influences>
+              <name>Sharon Shinn</name>
+              <postal_code nil="true"></postal_code>
+              <rating_dist>5:5411|4:8166|3:5670|2:1367|1:266|total:20880</rating_dist>
+              <ratings_count type="integer">35708</ratings_count>
+              <ratings_sum type="integer">136356</ratings_sum>
+              <reviews_count type="integer">57743</reviews_count>
+              <s3_image_at type="datetime">2008-08-17T10:52:57-07:00</s3_image_at>
+              <searched_for_at type="datetime">2007-03-24T14:03:07-07:00</searched_for_at>
+              <text_reviews_count type="integer">3550</text_reviews_count>
+              <updated_at type="datetime">2012-02-22T21:38:02-08:00</updated_at>
+              <uploader_user_id type="integer">977340</uploader_user_id>
+              <url>http://sharonshinn.net/</url>
+              <user_id type="integer" nil="true"></user_id>
+              <works_count type="integer">39</works_count>
+            </author>
+          </book>
+        </user_status>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/10988.Drums_Of_Autumn">Drums Of Autumn (Outlander, #4)</a> by <a href="http://www.goodreads.com/author/show/3617.Diana_Gabaldon">Diana Gabaldon</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/128627042</link>
+      <image_url>http://photo.goodreads.com/books/1320518606s/10988.jpg</image_url>
+      <actor>
+        <id type="integer">4284040</id>
+        <name>Alia</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/4284040-alia</link>
+      </actor>
+      <updated_at>Wed, 28 Dec 2011 19:51:46 -0800</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>10988</id>
+          <title><![CDATA[Drums Of Autumn (Outlander, #4)]]></title>
+          <link>http://www.goodreads.com/book/show/10988.Drums_Of_Autumn</link>
+          <authors>
+            <author>
+              <id>3617</id>
+              <name><![CDATA[Diana Gabaldon]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1213918339p5/3617.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1213918339p2/3617.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/3617.Diana_Gabaldon]]></link>
+              <average_rating>4.11</average_rating>
+              <ratings_count>312511</ratings_count>
+              <text_reviews_count>22995</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/10987.Voyager">Voyager (Outlander, #3)</a> by <a href="http://www.goodreads.com/author/show/3617.Diana_Gabaldon">Diana Gabaldon</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/128627049</link>
+      <image_url>http://photo.goodreads.com/books/1266450276s/10987.jpg</image_url>
+      <actor>
+        <id type="integer">4284040</id>
+        <name>Alia</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/4284040-alia</link>
+      </actor>
+      <updated_at>Wed, 28 Dec 2011 19:50:20 -0800</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>10987</id>
+          <title><![CDATA[Voyager (Outlander, #3)]]></title>
+          <link>http://www.goodreads.com/book/show/10987.Voyager</link>
+          <authors>
+            <author>
+              <id>3617</id>
+              <name><![CDATA[Diana Gabaldon]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1213918339p5/3617.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1213918339p2/3617.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/3617.Diana_Gabaldon]]></link>
+              <average_rating>4.11</average_rating>
+              <ratings_count>312511</ratings_count>
+              <text_reviews_count>22995</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 4 stars to: <a href="http://www.goodreads.com/book/show/97963.The_Alleluia_Files">The Alleluia Files (Samaria, #3)</a> by <a href="http://www.goodreads.com/author/show/28544.Sharon_Shinn">Sharon Shinn</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/197823807</link>
+      <image_url>http://photo.goodreads.com/books/1266471552s/97963.jpg</image_url>
+      <actor>
+        <id type="integer">4284040</id>
+        <name>Alia</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/4284040-alia</link>
+      </actor>
+      <updated_at>Wed, 28 Dec 2011 19:49:07 -0800</updated_at>
+      <action type="rating">
+        <rating>4</rating>
+      </action>
+      <object>
+        <book>
+          <id>97963</id>
+          <title><![CDATA[The Alleluia Files (Samaria, #3)]]></title>
+          <link>http://www.goodreads.com/book/show/97963.The_Alleluia_Files</link>
+          <authors>
+            <author>
+              <id>28544</id>
+              <name><![CDATA[Sharon Shinn]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1218995575p5/28544.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1218995575p2/28544.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/28544.Sharon_Shinn]]></link>
+              <average_rating>3.82</average_rating>
+              <ratings_count>35708</ratings_count>
+              <text_reviews_count>3550</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[marked as to-read: <a href="http://www.goodreads.com/book/show/10950924-the-dovekeepers">The Dovekeepers (Hardcover)</a> by <a href="http://www.goodreads.com/author/show/3502.Alice_Hoffman">Alice Hoffman</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/248060864</link>
+      <image_url>http://photo.goodreads.com/books/1306253903s/10950924.jpg</image_url>
+      <actor>
+        <id type="integer">974673</id>
+        <name>Natalie Wilkins</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/974673-natalie</link>
+      </actor>
+      <updated_at>Sat, 17 Dec 2011 04:22:03 -0800</updated_at>
+      <action type="added">
+        <shelf name="to-read" />
+      </action>
+      <object>
+        <book>
+          <id>10950924</id>
+          <title><![CDATA[The Dovekeepers]]></title>
+          <link>http://www.goodreads.com/book/show/10950924-the-dovekeepers</link>
+          <authors>
+            <author>
+              <id>3502</id>
+              <name><![CDATA[Alice Hoffman]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1269713710p5/3502.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1269713710p2/3502.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/3502.Alice_Hoffman]]></link>
+              <average_rating>3.64</average_rating>
+              <ratings_count>84345</ratings_count>
+              <text_reviews_count>10210</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 4 stars to: <a href="http://www.goodreads.com/book/show/13053793-boomerang">Boomerang: The Meltdown Tour</a> by <a href="http://www.goodreads.com/author/show/776.Michael_Lewis">Michael Lewis</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/236552348</link>
+      <image_url>http://www.goodreads.com/images/nocover-60x80.jpg</image_url>
+      <actor>
+        <id type="integer">1254616</id>
+        <name>Nick Harkaway</name>
+        <image_url>http://photo.goodreads.com/users/1326802264p2/1254616.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/1254616-nick</link>
+      </actor>
+      <updated_at>Thu, 17 Nov 2011 06:30:45 -0800</updated_at>
+      <action type="rating">
+        <rating>4</rating>
+      </action>
+      <object>
+        <book>
+          <id>13053793</id>
+          <title><![CDATA[Boomerang: The Meltdown Tour]]></title>
+          <link>http://www.goodreads.com/book/show/13053793-boomerang</link>
+          <authors>
+            <author>
+              <id>776</id>
+              <name><![CDATA[Michael Lewis]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1317447168p5/776.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1317447168p2/776.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/776.Michael_Lewis]]></link>
+              <average_rating>4.03</average_rating>
+              <ratings_count>52307</ratings_count>
+              <text_reviews_count>7937</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[I'm loving this. Taken in tandem with Lewis's previous book, The Big Short, it's a hilarious and terrifying explanation of the present financial crisis (ruination, collapse, armageddon?)<br/><br/>I was chatting to a couple of people the other day who really know finance and suchlike, and they object...<a href="http://www.goodreads.com/review/show/236552348">more...</a>]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/9850443-the-sisters-brothers">The Sisters Brothers (Hardcover)</a> by <a href="http://www.goodreads.com/author/show/1041872.Patrick_deWitt">Patrick deWitt</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/222856069</link>
+      <image_url>http://photo.goodreads.com/books/1291999900s/9850443.jpg</image_url>
+      <actor>
+        <id type="integer">1254616</id>
+        <name>Nick Harkaway</name>
+        <image_url>http://photo.goodreads.com/users/1326802264p2/1254616.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/1254616-nick</link>
+      </actor>
+      <updated_at>Thu, 13 Oct 2011 09:54:25 -0700</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>9850443</id>
+          <title><![CDATA[The Sisters Brothers]]></title>
+          <link>http://www.goodreads.com/book/show/9850443-the-sisters-brothers</link>
+          <authors>
+            <author>
+              <id>1041872</id>
+              <name><![CDATA[Patrick deWitt]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1225095402p5/1041872.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1225095402p2/1041872.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/1041872.Patrick_deWitt]]></link>
+              <average_rating>3.86</average_rating>
+              <ratings_count>5394</ratings_count>
+              <text_reviews_count>1337</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[I loved this book. I'm exhausted and a bit frazzled so if I don't clearly express why, I'm sorry. But:<br/><br/>The language has a poetic, restrained quality which mingles wit and sorrow and expresses the identity of the narrator elegantly without ever becoming intrusive. The story - a strange, wayw...<a href="http://www.goodreads.com/review/show/222856069">more...</a>]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/10493877-kai-mook">Kai-Mook (Hardcover)</a> by <a href="http://www.goodreads.com/author/show/313726.Guido_Van_Genechten">Guido Van Genechten</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/218873916</link>
+      <image_url>http://photo.goodreads.com/books/1328740463s/10493877.jpg</image_url>
+      <actor>
+        <id type="integer">4284040</id>
+        <name>Alia</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/4284040-alia</link>
+      </actor>
+      <updated_at>Tue, 04 Oct 2011 11:07:58 -0700</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>10493877</id>
+          <title><![CDATA[Kai-Mook]]></title>
+          <link>http://www.goodreads.com/book/show/10493877-kai-mook</link>
+          <authors>
+            <author>
+              <id>313726</id>
+              <name><![CDATA[Guido Van Genechten]]></name>
+              <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-M-200x266.jpg]]></image_url>
+              <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-M-50x66.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/313726.Guido_Van_Genechten]]></link>
+              <average_rating>3.40</average_rating>
+              <ratings_count>246</ratings_count>
+              <text_reviews_count>83</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 4 stars to: <a href="http://www.goodreads.com/book/show/9532.Ender_s_Shadow">Ender's Shadow (Shadow, #1)</a> by <a href="http://www.goodreads.com/author/show/589.Orson_Scott_Card">Orson Scott Card</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/154232721</link>
+      <image_url>http://photo.goodreads.com/books/1316131738s/9532.jpg</image_url>
+      <actor>
+        <id type="integer">4284040</id>
+        <name>Alia</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/4284040-alia</link>
+      </actor>
+      <updated_at>Tue, 04 Oct 2011 11:06:59 -0700</updated_at>
+      <action type="rating">
+        <rating>4</rating>
+      </action>
+      <object>
+        <book>
+          <id>9532</id>
+          <title><![CDATA[Ender's Shadow (Shadow, #1)]]></title>
+          <link>http://www.goodreads.com/book/show/9532.Ender_s_Shadow</link>
+          <authors>
+            <author>
+              <id>589</id>
+              <name><![CDATA[Orson Scott Card]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1294099952p5/589.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1294099952p2/589.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+              <average_rating>3.94</average_rating>
+              <ratings_count>566435</ratings_count>
+              <text_reviews_count>31411</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 4 stars to: <a href="http://www.goodreads.com/book/show/9969571-ready-player-one">Ready Player One (Hardcover)</a> by <a href="http://www.goodreads.com/author/show/31712.Ernest_Cline">Ernest Cline</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/218402986</link>
+      <image_url>http://photo.goodreads.com/books/1320550569s/9969571.jpg</image_url>
+      <actor>
+        <id type="integer">1254616</id>
+        <name>Nick Harkaway</name>
+        <image_url>http://photo.goodreads.com/users/1326802264p2/1254616.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/1254616-nick</link>
+      </actor>
+      <updated_at>Mon, 03 Oct 2011 08:23:43 -0700</updated_at>
+      <action type="rating">
+        <rating>4</rating>
+      </action>
+      <object>
+        <book>
+          <id>9969571</id>
+          <title><![CDATA[Ready Player One]]></title>
+          <link>http://www.goodreads.com/book/show/9969571-ready-player-one</link>
+          <authors>
+            <author>
+              <id>31712</id>
+              <name><![CDATA[Ernest Cline]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1310753539p5/31712.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1310753539p2/31712.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/31712.Ernest_Cline]]></link>
+              <average_rating>4.30</average_rating>
+              <ratings_count>12236</ratings_count>
+              <text_reviews_count>3434</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[I burned through this one in a couple of days, dragged along by the action. It's huge fun, and a really intriguing portrait of a world living mostly in simulation. It goes from fantasy world to grim reality in seconds, occasionally landing a real cognitive one-two punch straight on your thinking par...<a href="http://www.goodreads.com/review/show/218402986">more...</a>]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[is currently reading: <a href="http://www.goodreads.com/book/show/66354.Flow">Flow (Paperback)</a> by <a href="http://www.goodreads.com/author/show/27446.Mihaly_Csikszentmihalyi">Mihaly Csikszentmihalyi</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/215314776</link>
+      <image_url>http://photo.goodreads.com/books/1170649609s/66354.jpg</image_url>
+      <actor>
+        <id type="integer">1254616</id>
+        <name>Nick Harkaway</name>
+        <image_url>http://photo.goodreads.com/users/1326802264p2/1254616.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/1254616-nick</link>
+      </actor>
+      <updated_at>Mon, 26 Sep 2011 00:52:21 -0700</updated_at>
+      <action type="added">
+        <shelf name="currently-reading" />
+      </action>
+      <object>
+        <book>
+          <id>66354</id>
+          <title><![CDATA[Flow]]></title>
+          <link>http://www.goodreads.com/book/show/66354.Flow</link>
+          <authors>
+            <author>
+              <id>27446</id>
+              <name><![CDATA[Mihaly Csikszentmihalyi]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1325089488p5/27446.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1325089488p2/27446.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/27446.Mihaly_Csikszentmihalyi]]></link>
+              <average_rating>3.95</average_rating>
+              <ratings_count>4543</ratings_count>
+              <text_reviews_count>513</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/12163222-reamde">Reamde (Hardcover)</a> by <a href="http://www.goodreads.com/author/show/545.Neal_Stephenson">Neal Stephenson</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/214410374</link>
+      <image_url>http://www.goodreads.com/images/nocover-60x80.jpg</image_url>
+      <actor>
+        <id type="integer">1254616</id>
+        <name>Nick Harkaway</name>
+        <image_url>http://photo.goodreads.com/users/1326802264p2/1254616.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/1254616-nick</link>
+      </actor>
+      <updated_at>Sat, 24 Sep 2011 05:44:31 -0700</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>12163222</id>
+          <title><![CDATA[Reamde]]></title>
+          <link>http://www.goodreads.com/book/show/12163222-reamde</link>
+          <authors>
+            <author>
+              <id>545</id>
+              <name><![CDATA[Neal Stephenson]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1314902446p5/545.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1314902446p2/545.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/545.Neal_Stephenson]]></link>
+              <average_rating>3.93</average_rating>
+              <ratings_count>158804</ratings_count>
+              <text_reviews_count>11060</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[I thought, when I started reading this book, that Stephenson had turned in a classic Great American Novel. By that I mean that the introduction to the main character (although actually this is a seriously ensemble piece, so it’s probably better to think of him as the spine character – the events in ...<a href="http://www.goodreads.com/review/show/214410374">more...</a>]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/11321088-naamah-s-blessing">Naamah's Blessing (ebook)</a> by <a href="http://www.goodreads.com/author/show/9237.Jacqueline_Carey">Jacqueline Carey</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/203259979</link>
+      <image_url>http://photo.goodreads.com/books/1314411295s/11321088.jpg</image_url>
+      <actor>
+        <id type="integer">4284040</id>
+        <name>Alia</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/4284040-alia</link>
+      </actor>
+      <updated_at>Sun, 18 Sep 2011 20:31:46 -0700</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>11321088</id>
+          <title><![CDATA[Naamah's Blessing]]></title>
+          <link>http://www.goodreads.com/book/show/11321088-naamah-s-blessing</link>
+          <authors>
+            <author>
+              <id>9237</id>
+              <name><![CDATA[Jacqueline Carey]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1205262579p5/9237.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1205262579p2/9237.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/9237.Jacqueline_Carey]]></link>
+              <average_rating>4.14</average_rating>
+              <ratings_count>59802</ratings_count>
+              <text_reviews_count>4260</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[Loved it!]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[marked as to-read: <a href="http://www.goodreads.com/book/show/8667848-a-discovery-of-witches">A Discovery of Witches (All Souls Trilogy, #1)</a> by <a href="http://www.goodreads.com/author/show/3849415.Deborah_Harkness">Deborah Harkness</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/148845121</link>
+      <image_url>http://photo.goodreads.com/books/1322168805s/8667848.jpg</image_url>
+      <actor>
+        <id type="integer">977572</id>
+        <name>Laura Powers</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/977572-laura</link>
+      </actor>
+      <updated_at>Thu, 17 Feb 2011 14:41:35 -0800</updated_at>
+      <action type="added">
+        <shelf name="to-read" />
+      </action>
+      <object>
+        <book>
+          <id>8667848</id>
+          <title><![CDATA[A Discovery of Witches (All Souls Trilogy, #1)]]></title>
+          <link>http://www.goodreads.com/book/show/8667848-a-discovery-of-witches</link>
+          <authors>
+            <author>
+              <id>3849415</id>
+              <name><![CDATA[Deborah Harkness]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1280280279p5/3849415.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1280280279p2/3849415.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/3849415.Deborah_Harkness]]></link>
+              <average_rating>3.92</average_rating>
+              <ratings_count>27158</ratings_count>
+              <text_reviews_count>6422</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 4 stars to: <a href="http://www.goodreads.com/book/show/551536.Fire_Star">Fire Star (The Last Dragon Chronicles, #3)</a> by <a href="http://www.goodreads.com/author/show/179712.Chris_d_Lacey">Chris d'Lacey</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/148844247</link>
+      <image_url>http://photo.goodreads.com/books/1328865894s/551536.jpg</image_url>
+      <actor>
+        <id type="integer">977572</id>
+        <name>Laura Powers</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/977572-laura</link>
+      </actor>
+      <updated_at>Thu, 17 Feb 2011 14:40:56 -0800</updated_at>
+      <action type="rating">
+        <rating>4</rating>
+      </action>
+      <object>
+        <book>
+          <id>551536</id>
+          <title><![CDATA[Fire Star (The Last Dragon Chronicles, #3)]]></title>
+          <link>http://www.goodreads.com/book/show/551536.Fire_Star</link>
+          <authors>
+            <author>
+              <id>179712</id>
+              <name><![CDATA[Chris d'Lacey]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1242801833p5/179712.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1242801833p2/179712.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/179712.Chris_d_Lacey]]></link>
+              <average_rating>3.92</average_rating>
+              <ratings_count>15106</ratings_count>
+              <text_reviews_count>1435</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[Even though I read this book out of order and there was a lot of backstory that I didn't know, I still really liked it. I would compare it to Eragon and I liked Eragon as well.  I would actually like to read the other books in this series and just haven't gotten around to it yet.  ]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 3 stars to: <a href="http://www.goodreads.com/book/show/2028514.The_Lost_Book_of_Enoch">The Lost Book of Enoch (Paperback)</a> by <a href="http://www.goodreads.com/author/show/237585.David_Humphreys">David Humphreys</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/148841469</link>
+      <image_url>http://photo.goodreads.com/books/1328841664s/2028514.jpg</image_url>
+      <actor>
+        <id type="integer">977572</id>
+        <name>Laura Powers</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/977572-laura</link>
+      </actor>
+      <updated_at>Thu, 17 Feb 2011 14:21:35 -0800</updated_at>
+      <action type="rating">
+        <rating>3</rating>
+      </action>
+      <object>
+        <book>
+          <id>2028514</id>
+          <title><![CDATA[The Lost Book of Enoch]]></title>
+          <link>http://www.goodreads.com/book/show/2028514.The_Lost_Book_of_Enoch</link>
+          <authors>
+            <author>
+              <id>237585</id>
+              <name><![CDATA[David Humphreys]]></name>
+              <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+              <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/237585.David_Humphreys]]></link>
+              <average_rating>4.19</average_rating>
+              <ratings_count>16</ratings_count>
+              <text_reviews_count>3</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 3 stars to: <a href="http://www.goodreads.com/book/show/2463346.Who_s_Your_City_">Who's Your City?: How the Creative Economy Is Making Where to Live the Most Important Decision of Your Life (Hardcover)</a> by <a href="http://www.goodreads.com/author/show/33870.Richard_Florida">Richard Florida</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/148839051</link>
+      <image_url>http://photo.goodreads.com/books/1255945670s/2463346.jpg</image_url>
+      <actor>
+        <id type="integer">977572</id>
+        <name>Laura Powers</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/977572-laura</link>
+      </actor>
+      <updated_at>Thu, 17 Feb 2011 14:12:18 -0800</updated_at>
+      <action type="rating">
+        <rating>3</rating>
+      </action>
+      <object>
+        <book>
+          <id>2463346</id>
+          <title><![CDATA[Who's Your City?: How the Creative Economy Is Making Where to Live the Most Important Decision of Your Life]]></title>
+          <link>http://www.goodreads.com/book/show/2463346.Who_s_Your_City_</link>
+          <authors>
+            <author>
+              <id>33870</id>
+              <name><![CDATA[Richard Florida]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1308225219p5/33870.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1308225219p2/33870.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/33870.Richard_Florida]]></link>
+              <average_rating>3.49</average_rating>
+              <ratings_count>1615</ratings_count>
+              <text_reviews_count>310</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[I think this book is not as revolutionary as the Creative Class but I did appreciate reading the analysis of different cities and rankings.  I also think it would do a lot of people good to think about where they what to live in terms of lifestyle provided and ammenities. ]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 3 stars to: <a href="http://www.goodreads.com/book/show/10345294-the-celestial-hierarchy">The Celestial Hierarchy (Sacred Books #64)</a> by <a href="http://www.goodreads.com/author/show/425642.Pseudo_Dionysius_the_Areopagite">Pseudo-Dionysius the Areopagite</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/148838428</link>
+      <image_url>http://photo.goodreads.com/books/1328311272s/10345294.jpg</image_url>
+      <actor>
+        <id type="integer">977572</id>
+        <name>Laura Powers</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/977572-laura</link>
+      </actor>
+      <updated_at>Thu, 17 Feb 2011 14:08:28 -0800</updated_at>
+      <action type="rating">
+        <rating>3</rating>
+      </action>
+      <object>
+        <book>
+          <id>10345294</id>
+          <title><![CDATA[The Celestial Hierarchy (Sacred Books #64)]]></title>
+          <link>http://www.goodreads.com/book/show/10345294-the-celestial-hierarchy</link>
+          <authors>
+            <author>
+              <id>425642</id>
+              <name><![CDATA[Pseudo-Dionysius the Areopagite]]></name>
+              <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+              <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/425642.Pseudo_Dionysius_the_Areopagite]]></link>
+              <average_rating>4.15</average_rating>
+              <ratings_count>105</ratings_count>
+              <text_reviews_count>11</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[This is not exactly light reading but for those interested in angelology it is an important canononical source. This book discusses the different orders of angels and their characteristics.  ]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/661811.Animal_Spirit_Guides">Animal Spirit Guides: An Easy-to-Use Handbook for Identifying and Understanding Your Power Animals and Animal Spirit Helpers (Paperback)</a> by <a href="http://www.goodreads.com/author/show/355406.Steven_D_Farmer">Steven D. Farmer</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/148835014</link>
+      <image_url>http://photo.goodreads.com/books/1328860551s/661811.jpg</image_url>
+      <actor>
+        <id type="integer">977572</id>
+        <name>Laura Powers</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/977572-laura</link>
+      </actor>
+      <updated_at>Thu, 17 Feb 2011 14:02:33 -0800</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>661811</id>
+          <title><![CDATA[Animal Spirit Guides: An Easy-to-Use Handbook for Identifying and Understanding Your Power Animals and Animal Spirit Helpers]]></title>
+          <link>http://www.goodreads.com/book/show/661811.Animal_Spirit_Guides</link>
+          <authors>
+            <author>
+              <id>355406</id>
+              <name><![CDATA[Steven D. Farmer]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1241732717p5/355406.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1241732717p2/355406.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/355406.Steven_D_Farmer]]></link>
+              <average_rating>4.26</average_rating>
+              <ratings_count>136</ratings_count>
+              <text_reviews_count>20</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[After reading this book, I believe that spirit, god, the creator, or whatever you call the system that creates us all communicates with us in many ways including through animals.  This may be through actual animal interaction or it may be through the message of some kind (as in you keep hearing abou...<a href="http://www.goodreads.com/review/show/148835014">more...</a>]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/7109347-i-had-the-strangest-dream">I Had the Strangest Dream...: The Dreamer's Dictionary for the 21st Century (ebook)</a> by <a href="http://www.goodreads.com/author/show/4926.Kelly_Sullivan_Walden">Kelly Sullivan Walden</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/148834540</link>
+      <image_url>http://photo.goodreads.com/books/1267249911s/7109347.jpg</image_url>
+      <actor>
+        <id type="integer">977572</id>
+        <name>Laura Powers</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/977572-laura</link>
+      </actor>
+      <updated_at>Thu, 17 Feb 2011 13:50:37 -0800</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>7109347</id>
+          <title><![CDATA[I Had the Strangest Dream...: The Dreamer's Dictionary for the 21st Century]]></title>
+          <link>http://www.goodreads.com/book/show/7109347-i-had-the-strangest-dream</link>
+          <authors>
+            <author>
+              <id>4926</id>
+              <name><![CDATA[Kelly Sullivan Walden]]></name>
+              <image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-200x266.jpg]]></image_url>
+              <small_image_url><![CDATA[http://www.goodreads.com/images/nophoto/nophoto-U-50x66.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/4926.Kelly_Sullivan_Walden]]></link>
+              <average_rating>4.44</average_rating>
+              <ratings_count>16</ratings_count>
+              <text_reviews_count>8</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[I have several dream analysis books and this one is my favorite.  It does a great job explaining the different types of dreams and why we dream.  The dream dictnary seems right on most of the time for me.  I recognize that everyone dreams differently so I am not sure there is a one dream book that f...<a href="http://www.goodreads.com/review/show/148834540">more...</a>]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[gave 5 stars to: <a href="http://www.goodreads.com/book/show/365120.Angel_Numbers">Angel Numbers (Paperback)</a> by <a href="http://www.goodreads.com/author/show/79905.Doreen_Virtue">Doreen Virtue</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/148832900</link>
+      <image_url>http://photo.goodreads.com/books/1174140271s/365120.jpg</image_url>
+      <actor>
+        <id type="integer">977572</id>
+        <name>Laura Powers</name>
+        <image_url>http://www.goodreads.com/images/nophoto-F-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/977572-laura</link>
+      </actor>
+      <updated_at>Thu, 17 Feb 2011 13:47:49 -0800</updated_at>
+      <action type="rating">
+        <rating>5</rating>
+      </action>
+      <object>
+        <book>
+          <id>365120</id>
+          <title><![CDATA[Angel Numbers]]></title>
+          <link>http://www.goodreads.com/book/show/365120.Angel_Numbers</link>
+          <authors>
+            <author>
+              <id>79905</id>
+              <name><![CDATA[Doreen Virtue]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1250548980p5/79905.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1250548980p2/79905.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/79905.Doreen_Virtue]]></link>
+              <average_rating>4.09</average_rating>
+              <ratings_count>3764</ratings_count>
+              <text_reviews_count>359</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+      <body><![CDATA[I loved this book and found it when I started noticing numbers that kept coming up for me over and over again in the strangest ways.  It had never occured to me that numbers were significant but I believe differently now.  Here is the number experience that got me to notice when numbers appeared in ...<a href="http://www.goodreads.com/review/show/148832900">more...</a>]]></body>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[marked as to-read: <a href="http://www.goodreads.com/book/show/4138.Naked">Naked (Paperback)</a> by <a href="http://www.goodreads.com/author/show/2849.David_Sedaris">David Sedaris</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/46595251</link>
+      <image_url>http://photo.goodreads.com/books/1283637524s/4138.jpg</image_url>
+      <actor>
+        <id type="integer">2040269</id>
+        <name>Ken</name>
+        <image_url>http://www.goodreads.com/images/nophoto-M-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/2040269-ken</link>
+      </actor>
+      <updated_at>Mon, 16 Feb 2009 21:05:43 -0800</updated_at>
+      <action type="added">
+        <shelf name="to-read" />
+      </action>
+      <object>
+        <book>
+          <id>4138</id>
+          <title><![CDATA[Naked]]></title>
+          <link>http://www.goodreads.com/book/show/4138.Naked</link>
+          <authors>
+            <author>
+              <id>2849</id>
+              <name><![CDATA[David Sedaris]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1213737698p5/2849.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1213737698p2/2849.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/2849.David_Sedaris]]></link>
+              <average_rating>3.89</average_rating>
+              <ratings_count>544315</ratings_count>
+              <text_reviews_count>30252</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[added: <a href="http://www.goodreads.com/book/show/5129.Brave_New_World">Brave New World (Paperback)</a> by <a href="http://www.goodreads.com/author/show/3487.Aldous_Huxley">Aldous Huxley</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/46595229</link>
+      <image_url>http://photo.goodreads.com/books/1327865608s/5129.jpg</image_url>
+      <actor>
+        <id type="integer">2040269</id>
+        <name>Ken</name>
+        <image_url>http://www.goodreads.com/images/nophoto-M-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/2040269-ken</link>
+      </actor>
+      <updated_at>Mon, 16 Feb 2009 21:05:26 -0800</updated_at>
+      <action type="added">
+        <shelf name="read" />
+      </action>
+      <object>
+        <book>
+          <id>5129</id>
+          <title><![CDATA[Brave New World]]></title>
+          <link>http://www.goodreads.com/book/show/5129.Brave_New_World</link>
+          <authors>
+            <author>
+              <id>3487</id>
+              <name><![CDATA[Aldous Huxley]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1222974446p5/3487.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1222974446p2/3487.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/3487.Aldous_Huxley]]></link>
+              <average_rating>3.86</average_rating>
+              <ratings_count>359747</ratings_count>
+              <text_reviews_count>8392</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[marked as to-read: <a href="http://www.goodreads.com/book/show/4214.Life_of_Pi">Life of Pi (Mass Market Paperback)</a> by <a href="http://www.goodreads.com/author/show/811.Yann_Martel">Yann Martel</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/46595225</link>
+      <image_url>http://photo.goodreads.com/books/1320562005s/4214.jpg</image_url>
+      <actor>
+        <id type="integer">2040269</id>
+        <name>Ken</name>
+        <image_url>http://www.goodreads.com/images/nophoto-M-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/2040269-ken</link>
+      </actor>
+      <updated_at>Mon, 16 Feb 2009 21:05:23 -0800</updated_at>
+      <action type="added">
+        <shelf name="to-read" />
+      </action>
+      <object>
+        <book>
+          <id>4214</id>
+          <title><![CDATA[Life of Pi]]></title>
+          <link>http://www.goodreads.com/book/show/4214.Life_of_Pi</link>
+          <authors>
+            <author>
+              <id>811</id>
+              <name><![CDATA[Yann Martel]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1269466455p5/811.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1269466455p2/811.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/811.Yann_Martel]]></link>
+              <average_rating>3.76</average_rating>
+              <ratings_count>226894</ratings_count>
+              <text_reviews_count>20784</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[added: <a href="http://www.goodreads.com/book/show/18135.Romeo_and_Juliet">Romeo and Juliet (Mass Market Paperback)</a> by <a href="http://www.goodreads.com/author/show/947.William_Shakespeare">William Shakespeare</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/46595216</link>
+      <image_url>http://photo.goodreads.com/books/1327872146s/18135.jpg</image_url>
+      <actor>
+        <id type="integer">2040269</id>
+        <name>Ken</name>
+        <image_url>http://www.goodreads.com/images/nophoto-M-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/2040269-ken</link>
+      </actor>
+      <updated_at>Mon, 16 Feb 2009 21:05:19 -0800</updated_at>
+      <action type="added">
+        <shelf name="read" />
+      </action>
+      <object>
+        <book>
+          <id>18135</id>
+          <title><![CDATA[Romeo and Juliet]]></title>
+          <link>http://www.goodreads.com/book/show/18135.Romeo_and_Juliet</link>
+          <authors>
+            <author>
+              <id>947</id>
+              <name><![CDATA[William Shakespeare]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1179017891p5/947.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1179017891p2/947.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+              <average_rating>3.80</average_rating>
+              <ratings_count>1438167</ratings_count>
+              <text_reviews_count>25688</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[marked as to-read: <a href="http://www.goodreads.com/book/show/4981.Slaughterhouse_Five">Slaughterhouse Five (Paperback)</a> by <a href="http://www.goodreads.com/author/show/2778055.Kurt_Vonnegut">Kurt Vonnegut</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/46595212</link>
+      <image_url>http://photo.goodreads.com/books/1329603024s/4981.jpg</image_url>
+      <actor>
+        <id type="integer">2040269</id>
+        <name>Ken</name>
+        <image_url>http://www.goodreads.com/images/nophoto-M-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/2040269-ken</link>
+      </actor>
+      <updated_at>Mon, 16 Feb 2009 21:05:17 -0800</updated_at>
+      <action type="added">
+        <shelf name="to-read" />
+      </action>
+      <object>
+        <book>
+          <id>4981</id>
+          <title><![CDATA[Slaughterhouse Five]]></title>
+          <link>http://www.goodreads.com/book/show/4981.Slaughterhouse_Five</link>
+          <authors>
+            <author>
+              <id>2778055</id>
+              <name><![CDATA[Kurt Vonnegut]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1233193902p5/2778055.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1233193902p2/2778055.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/2778055.Kurt_Vonnegut]]></link>
+              <average_rating>3.94</average_rating>
+              <ratings_count>652399</ratings_count>
+              <text_reviews_count>21605</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[marked as to-read: <a href="http://www.goodreads.com/book/show/12232938-the-lovely-bones">The Lovely Bones (Mass Market Paperback)</a> by <a href="http://www.goodreads.com/author/show/316.Alice_Sebold">Alice Sebold</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/46595199</link>
+      <image_url>http://photo.goodreads.com/books/1312524577s/12232938.jpg</image_url>
+      <actor>
+        <id type="integer">2040269</id>
+        <name>Ken</name>
+        <image_url>http://www.goodreads.com/images/nophoto-M-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/2040269-ken</link>
+      </actor>
+      <updated_at>Mon, 16 Feb 2009 21:05:07 -0800</updated_at>
+      <action type="added">
+        <shelf name="to-read" />
+      </action>
+      <object>
+        <book>
+          <id>12232938</id>
+          <title><![CDATA[The Lovely Bones]]></title>
+          <link>http://www.goodreads.com/book/show/12232938-the-lovely-bones</link>
+          <authors>
+            <author>
+              <id>316</id>
+              <name><![CDATA[Alice Sebold]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1262477562p5/316.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1262477562p2/316.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/316.Alice_Sebold]]></link>
+              <average_rating>3.63</average_rating>
+              <ratings_count>552132</ratings_count>
+              <text_reviews_count>29444</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[added: <a href="http://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn">The Adventures of Huckleberry Finn (Paperback)</a> by <a href="http://www.goodreads.com/author/show/1244.Mark_Twain">Mark Twain</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/46595194</link>
+      <image_url>http://photo.goodreads.com/books/1274410225s/2956.jpg</image_url>
+      <actor>
+        <id type="integer">2040269</id>
+        <name>Ken</name>
+        <image_url>http://www.goodreads.com/images/nophoto-M-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/2040269-ken</link>
+      </actor>
+      <updated_at>Mon, 16 Feb 2009 21:05:03 -0800</updated_at>
+      <action type="added">
+        <shelf name="read" />
+      </action>
+      <object>
+        <book>
+          <id>2956</id>
+          <title><![CDATA[The Adventures of Huckleberry Finn]]></title>
+          <link>http://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn</link>
+          <authors>
+            <author>
+              <id>1244</id>
+              <name><![CDATA[Mark Twain]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1322103868p5/1244.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1322103868p2/1244.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/1244.Mark_Twain]]></link>
+              <average_rating>3.75</average_rating>
+              <ratings_count>698464</ratings_count>
+              <text_reviews_count>13627</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[marked as to-read: <a href="http://www.goodreads.com/book/show/37435.The_Secret_Life_of_Bees">The Secret Life of Bees (Paperback)</a> by <a href="http://www.goodreads.com/author/show/4711.Sue_Monk_Kidd">Sue Monk Kidd</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/46595171</link>
+      <image_url>http://photo.goodreads.com/books/1311648169s/37435.jpg</image_url>
+      <actor>
+        <id type="integer">2040269</id>
+        <name>Ken</name>
+        <image_url>http://www.goodreads.com/images/nophoto-M-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/2040269-ken</link>
+      </actor>
+      <updated_at>Mon, 16 Feb 2009 21:04:48 -0800</updated_at>
+      <action type="added">
+        <shelf name="to-read" />
+      </action>
+      <object>
+        <book>
+          <id>37435</id>
+          <title><![CDATA[The Secret Life of Bees]]></title>
+          <link>http://www.goodreads.com/book/show/37435.The_Secret_Life_of_Bees</link>
+          <authors>
+            <author>
+              <id>4711</id>
+              <name><![CDATA[Sue Monk Kidd]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1204790176p5/4711.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1204790176p2/4711.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/4711.Sue_Monk_Kidd]]></link>
+              <average_rating>3.79</average_rating>
+              <ratings_count>424841</ratings_count>
+              <text_reviews_count>22540</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+    <update type="review">
+      <action_text><![CDATA[added: <a href="http://www.goodreads.com/book/show/7613.Animal_Farm">Animal Farm (Paperback)</a> by <a href="http://www.goodreads.com/author/show/3706.George_Orwell">George Orwell</a>]]></action_text>
+      <link>http://www.goodreads.com/review/show/46595166</link>
+      <image_url>http://photo.goodreads.com/books/1327872845s/7613.jpg</image_url>
+      <actor>
+        <id type="integer">2040269</id>
+        <name>Ken</name>
+        <image_url>http://www.goodreads.com/images/nophoto-M-50x66.jpg</image_url>
+        <link>http://www.goodreads.com/user/show/2040269-ken</link>
+      </actor>
+      <updated_at>Mon, 16 Feb 2009 21:04:44 -0800</updated_at>
+      <action type="added">
+        <shelf name="read" />
+      </action>
+      <object>
+        <book>
+          <id>7613</id>
+          <title><![CDATA[Animal Farm]]></title>
+          <link>http://www.goodreads.com/book/show/7613.Animal_Farm</link>
+          <authors>
+            <author>
+              <id>3706</id>
+              <name><![CDATA[George Orwell]]></name>
+              <image_url><![CDATA[http://photo.goodreads.com/authors/1175614486p5/3706.jpg]]></image_url>
+              <small_image_url><![CDATA[http://photo.goodreads.com/authors/1175614486p2/3706.jpg]]></small_image_url>
+              <link><![CDATA[http://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+              <average_rating>3.84</average_rating>
+              <ratings_count>1176581</ratings_count>
+              <text_reviews_count>25873</text_reviews_count>
+            </author>
+          </authors>
+        </book>
+      </object>
+    </update>
+  </updates>
+</GoodreadsResponse>

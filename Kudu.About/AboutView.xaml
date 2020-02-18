@@ -1,0 +1,59 @@
+<phone:PhoneApplicationPage 
+    x:Class="Kudu.About.AboutView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  
+    shell:SystemTray.IsVisible="True">
+
+    <!-- LayoutRoot -->
+    <Grid Background="Transparent">        
+
+        <controls:Pivot Title="KUDU" 
+                        SelectionChanged="Pivot_SelectionChanged">
+
+            <!-- about -->
+            <controls:PivotItem Header="about">
+                <ScrollViewer>
+                    <StackPanel Margin="0,-12,0,24">
+                        <TextBlock Style="{StaticResource PhoneTextExtraLargeStyle}"
+                                   Text="Kudu"
+                                   Foreground="{StaticResource PhoneAccentBrush}" />
+                        <TextBlock Style="{StaticResource PhoneTextLargeStyle}"
+                                   Text="by Shawn Oster" />
+                        <HyperlinkButton NavigateUri="http://www.shawnoster.com/kudu"
+                                         TargetName="_new"
+                                         HorizontalAlignment="Left"
+                                         Content="www.shawnoster.com/kudu" />
+                        <StackPanel Orientation="Horizontal" 
+                                    Margin="0,18,0,0">
+                            <TextBlock Style="{StaticResource PhoneTextNormalStyle}" 
+                                       Text="Version:" />
+                            <TextBlock Margin="0" 
+                                       Style="{StaticResource PhoneTextNormalStyle}"
+                                       x:Name="_versionText" />
+                        </StackPanel>
+                        <Button HorizontalAlignment="Left"
+                                Tag="Review"
+                                Click="HyperlinkButton_Click"
+                                Content="Review this app"/>
+                    </StackPanel>
+                </ScrollViewer>
+            </controls:PivotItem>
+
+            <!-- legal -->
+            <controls:PivotItem Header="legal">
+                <ScrollViewer x:Name="sv1"
+                              Margin="0,0,-12,24"/>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+</phone:PhoneApplicationPage>

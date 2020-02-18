@@ -1,0 +1,161 @@
+﻿<ViewModels:NotificationsViewModel xmlns:ViewModels="clr-namespace:Kudu.ViewModels" xmlns:Librarian="clr-namespace:Librarian;assembly=Librarian">
+	<ViewModels:NotificationsViewModel.NotificationResult>
+		<Librarian:NotificationResult IsUpdating="True" LastUpdated="07/15/2013 00:50:56">
+			<Librarian:NotificationResult.LoadContext>
+				<Librarian:IdLoadContext Id="Gravida vitae parturient" UniqueKey="Iaculis vulputate mauris class praesent"/>
+			</Librarian:NotificationResult.LoadContext>
+			<Librarian:NotificationResult.Notifications>
+				<Librarian:Notification ActorNames="Aaberg, Jesper" BodyText="Fermentum nascetur" BodyHtml="Arcu lobortis quisque" CreatedAt="07/15/2013 00:50:56" DisplayText="Vivamus pharetra nec placerat aliquam" GroupResourceType="Fringilla adipiscing non" IsNew="True" ResourceType="Pulvinar sagittis diam">
+					<Librarian:Notification.Actors>
+						<Librarian:Actor Id="Nam cras praesent vestibulum" Location="Nullam curabitur aliquam" Name="Duis adipiscing"/>
+						<Librarian:Actor Id="Aptent class" Location="Auctor parturient curae sed" Name="Phasellus donec congue integer cursus"/>
+						<Librarian:Actor Id="Accumsan dictum lectus" Location="Dis libero bibendum dictumst consequat" Name="Eleifend est ligula nunc"/>
+						<Librarian:Actor Id="Convallis etiam" Location="Hac dignissim litora vestibulum fusce" Name="Lorem leo facilisi"/>
+						<Librarian:Actor Id="Faucibus amet elementum" Location="Habitant ante inceptos" Name="Mus vestibulum interdum luctus facilisis"/>
+					</Librarian:Notification.Actors>
+					<Librarian:Notification.Review>
+						<Librarian:ReviewNotification BookId="45" CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Rating="72" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Review>
+					<Librarian:Notification.Topic>
+						<Librarian:TopicNotification CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Title="Morbi magnis mattis eget" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Topic>
+				</Librarian:Notification>
+				<Librarian:Notification ActorNames="Adams, Ellen" BodyText="Tincidunt vestibulum vestibulum" BodyHtml="Maecenas pede feugiat vel quam" CreatedAt="07/15/2013 00:50:56" DisplayText="Rutrum praesent adipiscing sapien nam" GroupResourceType="Sed fames tristique" IsNew="False" ResourceType="Parturient vestibulum vestibulum">
+					<Librarian:Notification.Actors>
+						<Librarian:Actor Id="Habitasse elit enim hendrerit" Location="Mollis parturient himenaeos" Name="Senectus montes sed"/>
+						<Librarian:Actor Id="Nostra aliquet" Location="Blandit commodo vestibulum" Name="Sociosqu proin conubia erat"/>
+						<Librarian:Actor Id="Augue eros vestibulum nibh" Location="Imperdiet sem ornare cubilia suscipit" Name="Dapibus nisi nisl platea"/>
+						<Librarian:Actor Id="Torquent ultrices" Location="Malesuada egestas euismod" Name="Penatibus nunc"/>
+						<Librarian:Actor Id="Odio adipiscing porttitor primis parturient" Location="Vehicula sit orci" Name="Volutpat dolor"/>
+					</Librarian:Notification.Actors>
+					<Librarian:Notification.Review>
+						<Librarian:ReviewNotification BookId="46" CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Rating="14" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Review>
+					<Librarian:Notification.Topic>
+						<Librarian:TopicNotification CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Title="Accumsan semper" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Topic>
+				</Librarian:Notification>
+				<Librarian:Notification ActorNames="Adams, Terry" BodyText="Morbi elementum eros facilisis" BodyHtml="Turpis sodales metus erat" CreatedAt="07/15/2013 00:50:56" DisplayText="Varius aenean mauris nullam" GroupResourceType="Neque fermentum" IsNew="True" ResourceType="Nibh viverra adipiscing faucibus">
+					<Librarian:Notification.Actors>
+						<Librarian:Actor Id="Felis ipsum taciti justo" Location="Est hac" Name="Lacus ultricies tellus adipiscing leo"/>
+						<Librarian:Actor Id="Bibendum tempor iaculis venenatis" Location="Parturient lacinia" Name="Mus nec urna vulputate"/>
+						<Librarian:Actor Id="Vestibulum curabitur" Location="Cras duis phasellus nunc amet" Name="Non vestibulum tempus laoreet"/>
+						<Librarian:Actor Id="Ante per consequat" Location="Natoque tortor dictumst lorem eleifend" Name="Posuere potenti"/>
+						<Librarian:Actor Id="Facilisi arcu diam eget" Location="Pretium magna elit convallis" Name="Dignissim sed rhoncus enim massa"/>
+					</Librarian:Notification.Actors>
+					<Librarian:Notification.Review>
+						<Librarian:ReviewNotification BookId="30" CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Rating="76" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Review>
+					<Librarian:Notification.Topic>
+						<Librarian:TopicNotification CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Title="Netus aliquam nisi nulla" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Topic>
+				</Librarian:Notification>
+				<Librarian:Notification ActorNames="Adams, Terry" BodyText="Parturient duis class" BodyHtml="Pharetra litora cras blandit non" CreatedAt="07/15/2013 00:50:56" DisplayText="Per curae sed vestibulum nunc" GroupResourceType="Sem placerat luctus imperdiet amet" IsNew="False" ResourceType="Ante malesuada donec sit">
+					<Librarian:Notification.Actors>
+						<Librarian:Actor Id="Sem nunc sit aptent vel" Location="Nam habitasse" Name="Auctor sed odio integer"/>
+						<Librarian:Actor Id="Dis hendrerit congue inceptos" Location="Orci interdum" Name="Lobortis nascetur pede"/>
+						<Librarian:Actor Id="Quisque vestibulum porta" Location="Adipiscing purus risus" Name="Vivamus est"/>
+						<Librarian:Actor Id="Quam himenaeos velit" Location="Quis hac leo" Name="Mus aliquam"/>
+						<Librarian:Actor Id="Cursus nec dictum lectus aliquet" Location="Libero urna" Name="Vitae ligula"/>
+					</Librarian:Notification.Actors>
+					<Librarian:Notification.Review>
+						<Librarian:ReviewNotification BookId="99" CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Rating="44" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Review>
+					<Librarian:Notification.Topic>
+						<Librarian:TopicNotification CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Title="Penatibus etiam vel" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Topic>
+				</Librarian:Notification>
+				<Librarian:Notification ActorNames="Penor, Lori" BodyText="Iaculis enim vestibulum adipiscing" BodyHtml="Nostra feugiat gravida" CreatedAt="07/15/2013 00:50:56" DisplayText="Vulputate ornare platea erat" GroupResourceType="Justo vehicula per volutpat" IsNew="True" ResourceType="Primis eros">
+					<Librarian:Notification.Actors>
+						<Librarian:Actor Id="Fusce lorem pulvinar" Location="Nam tincidunt vestibulum conubia" Name="Sagittis tristique magnis mattis"/>
+						<Librarian:Actor Id="Sed ultricies dis adipiscing" Location="Parturient senectus est sociosqu morbi" Name="Hac suscipit leo torquent"/>
+						<Librarian:Actor Id="Arcu vestibulum cubilia" Location="Mus dapibus egestas venenatis" Name="Mauris nulla"/>
+						<Librarian:Actor Id="Proin vestibulum adipiscing" Location="Mollis diam" Name="Augue nec euismod dolor parturient"/>
+						<Librarian:Actor Id="Vestibulum fames" Location="Eget felis ultrices montes non" Name="Elit ipsum"/>
+					</Librarian:Notification.Actors>
+					<Librarian:Notification.Review>
+						<Librarian:ReviewNotification BookId="77" CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Rating="60" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Review>
+					<Librarian:Notification.Topic>
+						<Librarian:TopicNotification CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Title="Parturient lacinia" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Topic>
+				</Librarian:Notification>
+				<Librarian:Notification ActorNames="Pfeiffer, Michael" BodyText="Tortor interdum metus" BodyHtml="Quisque quis himenaeos urna" CreatedAt="07/15/2013 00:50:56" DisplayText="Cras nam imperdiet malesuada" GroupResourceType="Sed vestibulum" IsNew="False" ResourceType="Vestibulum vivamus aliquam dis">
+					<Librarian:Notification.Actors>
+						<Librarian:Actor Id="Praesent accumsan curabitur sed" Location="Rutrum vestibulum posuere phasellus" Name="Bibendum potenti sapien semper vestibulum"/>
+						<Librarian:Actor Id="Consequat convallis lacus dictumst" Location="Sociis nibh taciti eleifend" Name="Nisi nisl facilisi lorem nunc"/>
+						<Librarian:Actor Id="Pretium adipiscing" Location="Rhoncus tellus" Name="Tempor sodales faucibus dignissim elementum"/>
+						<Librarian:Actor Id="Facilisis habitant odio tempus sem" Location="Magna viverra fermentum" Name="Aliquam fringilla orci sit habitasse"/>
+						<Librarian:Actor Id="Inceptos hendrerit pede vel" Location="Massa quam" Name="Parturient integer"/>
+					</Librarian:Notification.Actors>
+					<Librarian:Notification.Review>
+						<Librarian:ReviewNotification BookId="27" CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Rating="98" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Review>
+					<Librarian:Notification.Topic>
+						<Librarian:TopicNotification CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Title="Duis nunc" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Topic>
+				</Librarian:Notification>
+				<Librarian:Notification ActorNames="Philips, Carol" BodyText="Class mauris" BodyHtml="Gravida iaculis vitae" CreatedAt="07/15/2013 00:50:56" DisplayText="Sem sit nisi nisl" GroupResourceType="Vehicula nunc phasellus" IsNew="True" ResourceType="Vel volutpat">
+					<Librarian:Notification.Actors>
+						<Librarian:Actor Id="Aliquet penatibus hac amet lobortis" Location="Ante nascetur arcu neque netus" Name="Turpis adipiscing nulla diam blandit"/>
+						<Librarian:Actor Id="Porta eget commodo" Location="Conubia purus cubilia dapibus" Name="Parturient risus vestibulum porttitor pharetra"/>
+						<Librarian:Actor Id="Elit placerat leo" Location="Mus vestibulum" Name="Tincidunt enim"/>
+						<Librarian:Actor Id="Nec velit pulvinar" Location="Non sagittis varius egestas adipiscing" Name="Senectus euismod aenean erat sociosqu"/>
+						<Librarian:Actor Id="Suscipit per eros tristique torquent" Location="Ultrices ultricies venenatis sed parturient" Name="Vulputate nibh curabitur feugiat"/>
+					</Librarian:Notification.Actors>
+					<Librarian:Notification.Review>
+						<Librarian:ReviewNotification BookId="46" CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Rating="35" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Review>
+					<Librarian:Notification.Topic>
+						<Librarian:TopicNotification CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Title="Lacinia vestibulum nullam" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Topic>
+				</Librarian:Notification>
+				<Librarian:Notification ActorNames="Poe, Toni" BodyText="Luctus lorem" BodyHtml="Sodales viverra" CreatedAt="07/15/2013 00:50:56" DisplayText="Facilisis facilisi" GroupResourceType="Faucibus habitant mus morbi vestibulum" IsNew="False" ResourceType="Nec non magnis ante mattis">
+					<Librarian:Notification.Actors>
+						<Librarian:Actor Id="Adipiscing orci aptent" Location="Curae auctor donec" Name="Nam congue"/>
+						<Librarian:Actor Id="Sed cursus" Location="Parturient vestibulum vestibulum" Name="Adipiscing dis dictum lectus etiam"/>
+						<Librarian:Actor Id="Parturient pede laoreet" Location="Natoque consequat posuere potenti convallis" Name="Pretium est"/>
+						<Librarian:Actor Id="Quam hac libero dignissim" Location="Ligula praesent rhoncus" Name="Fusce quis vestibulum elementum"/>
+						<Librarian:Actor Id="Urna vestibulum accumsan cras bibendum" Location="Dictumst duis adipiscing leo eleifend" Name="Nunc litora amet parturient"/>
+					</Librarian:Notification.Actors>
+					<Librarian:Notification.Review>
+						<Librarian:ReviewNotification BookId="51" CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Rating="99" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Review>
+					<Librarian:Notification.Topic>
+						<Librarian:TopicNotification CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Title="Inceptos arcu mauris mollis fermentum" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Topic>
+				</Librarian:Notification>
+				<Librarian:Notification ActorNames="Hicks, Cassie" BodyText="Lorem platea aliquam parturient" BodyHtml="Vivamus adipiscing pede lacus" CreatedAt="07/15/2013 00:50:56" DisplayText="Primis magna aliquet nam" GroupResourceType="Habitasse rutrum sed suscipit" IsNew="True" ResourceType="Blandit hendrerit">
+					<Librarian:Notification.Actors>
+						<Librarian:Actor Id="Proin diam" Location="Adipiscing augue fringilla aliquam montes" Name="Per interdum"/>
+						<Librarian:Actor Id="Dolor parturient" Location="Vestibulum sed" Name="Sem sit fames eget elit"/>
+						<Librarian:Actor Id="Nostra vestibulum ornare" Location="Felis lobortis integer nascetur" Name="Pharetra placerat"/>
+						<Librarian:Actor Id="Adipiscing parturient" Location="Vel pulvinar enim erat sagittis" Name="Eros nibh vestibulum ipsum"/>
+						<Librarian:Actor Id="Vestibulum nisi senectus" Location="Nisl nunc sociosqu odio" Name="Quisque orci justo"/>
+					</Librarian:Notification.Actors>
+					<Librarian:Notification.Review>
+						<Librarian:ReviewNotification BookId="34" CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Rating="18" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Review>
+					<Librarian:Notification.Topic>
+						<Librarian:TopicNotification CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Title="Torquent massa" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Topic>
+				</Librarian:Notification>
+				<Librarian:Notification ActorNames="Argentiero, Luca" BodyText="Diam volutpat risus adipiscing eget" BodyHtml="Vestibulum vestibulum" CreatedAt="07/15/2013 00:50:56" DisplayText="Aenean parturient vestibulum" GroupResourceType="Vestibulum euismod ultricies" IsNew="False" ResourceType="Mus velit maecenas">
+					<Librarian:Notification.Actors>
+						<Librarian:Actor Id="Sapien adipiscing quam metus" Location="Quis urna dis" Name="Parturient semper"/>
+						<Librarian:Actor Id="Cras commodo morbi sociis est" Location="Himenaeos taciti imperdiet malesuada duis" Name="Neque ultrices"/>
+						<Librarian:Actor Id="Conubia vehicula penatibus netus" Location="Nulla nunc" Name="Cubilia amet tellus"/>
+						<Librarian:Actor Id="Vestibulum porttitor porta" Location="Dapibus tempor purus hac" Name="Vestibulum ante tempus"/>
+						<Librarian:Actor Id="Tincidunt tortor" Location="Adipiscing turpis egestas" Name="Varius parturient leo tristique arcu"/>
+					</Librarian:Notification.Actors>
+					<Librarian:Notification.Review>
+						<Librarian:ReviewNotification BookId="84" CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Rating="43" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Review>
+					<Librarian:Notification.Topic>
+						<Librarian:TopicNotification CreatedAt="07/15/2013 00:50:56" LastCommentAt="07/15/2013 00:50:56" Title="Adipiscing venenatis feugiat" UpdatedAt="07/15/2013 00:50:56"/>
+					</Librarian:Notification.Topic>
+				</Librarian:Notification>
+			</Librarian:NotificationResult.Notifications>
+		</Librarian:NotificationResult>
+	</ViewModels:NotificationsViewModel.NotificationResult>
+</ViewModels:NotificationsViewModel>

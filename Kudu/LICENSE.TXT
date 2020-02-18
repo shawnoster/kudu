@@ -1,0 +1,32 @@
+﻿Kudu
+A Goodreads client for Windows Phone
+Created by Shawn Oster
+
+Goodreads
+This application uses the Goodreads application programming interface but is not endorsed or certified by Goodreads.
+
+Implementation Copyright 2012 Shawn Oster
+Licensed under the Apache License.
+
+Logo and UI assets by Katy Miller
+
+AgFx Windows Phone App and Data Caching Framework (http://agfx.codeplex.com)
+(c) Copyright Microsoft Corporation
+This source is subject to the Apache LIcense, Version 2.0
+Please see http://www.apache.org/licenses/LICENSE-2.0 for details.
+All other rights reserved.
+
+JSON.NET (http://json.codeplex.com)
+
+RestSharp (http://restsharp.org)
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+Silverlight for Windows Phone Toolkit (http://silverlight.codeplex.com)
+Microsoft Public License (Ms-PL)
+
+Big Shout Out To
+THE Jeff Wilcox
+Shawn Burke
+Katy Miller

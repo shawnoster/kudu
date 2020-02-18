@@ -1,0 +1,151 @@
+﻿<mvvm:ViewBase 
+    x:Class="Kudu.Views.BookView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:mvvm="clr-namespace:Simian.Mvvm;assembly=Simian"
+    xmlns:kudu="clr-namespace:Kudu.Controls;assembly=Kudu.Controls"
+    xmlns:bar="clr-namespace:Microsoft.Phone.Shell;assembly=Windows.Phone.Controls.Toolkit.AppBar"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"                            
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape"                            
+    Style="{StaticResource TransitionPageStyle}">
+
+    <Grid Background="Transparent">
+
+        <controls:Pivot Title="{Binding Book}">
+            <controls:Pivot.Background>
+                <ImageBrush ImageSource="{Binding Book.CoverUrl}" Stretch="Uniform" />
+            </controls:Pivot.Background>
+
+            <controls:Pivot.TitleTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <TextBlock Style="{StaticResource PhonePivotTitleStyle}"
+                                   Text="{Binding Title, FallbackValue='', Converter={StaticResource StringCaseConverter}}" />
+                        <TextBlock Style="{StaticResource PhonePivotSubTitleStyle}"
+                                   Text="{Binding By, FallbackValue=''}" />
+                    </StackPanel>
+                </DataTemplate>
+            </controls:Pivot.TitleTemplate>
+
+            <!--about-->
+            <controls:PivotItem Header="about">
+                <ScrollViewer Margin="0,0,-12,0">
+                    <Grid Margin="0,0,0,95">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+
+                        <Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Image Source="{Binding Book.CoverUrl}"
+                                   Stretch="Uniform"
+                                   Width="100"
+                                   Height="160"
+                                   VerticalAlignment="Top"
+                                   Margin="12,0,6,0" />
+
+                            <StackPanel Grid.Column="1">
+                                <!--<TextBlock Text="{Binding Book.Title}"
+                                           Style="{StaticResource PhoneTextTitle3Style}"
+                                           TextWrapping="Wrap" />
+                                <HyperlinkButton Content="{Binding Book.By}"
+                                                 Style="{StaticResource HyperlinkAccentStyle}"
+                                                 NavigateUri="/Views/HomeView.xaml" />-->
+                                <TextBlock Text="{Binding Book.NumberOfPages, StringFormat='\{0\} pages'}"
+                                           Style="{StaticResource PhoneTextSmallStyle}"
+                                           Foreground="{StaticResource PhoneForegroundBrush}"
+                                           Margin="12,0,0,0" />
+                                <TextBlock Text="{Binding Book.Isbn, StringFormat='ISBN: \{0\}'}"
+                                           Style="{StaticResource PhoneTextSmallStyle}"
+                                           Foreground="{StaticResource PhoneForegroundBrush}"
+                                           Margin="12,0,0,0" />
+                                <TextBlock Text="{Binding Book.PublicationYear}"
+                                           Style="{StaticResource PhoneTextSmallStyle}"
+                                           Foreground="{StaticResource PhoneForegroundBrush}"
+                                           Margin="12,0,0,0" />
+
+                                <StackPanel Orientation="Horizontal" Margin="12,6,0,6">
+                                    <kudu:MetroRating Rating="{Binding Book.AverageRating}" Margin="0,0,6,0"/>
+                                    <TextBlock Text="{Binding Book.AverageRating}"
+                                               Style="{StaticResource SmallMid}"
+                                               VerticalAlignment="Bottom"
+                                               Margin="0" />
+                                    <TextBlock Text="{Binding Book.RatingsCount, StringFormat=' (\{0\} ratings)'}"
+                                               Style="{StaticResource SmallMid}"
+                                               VerticalAlignment="Bottom"
+                                               Margin="0" />
+                                </StackPanel>
+                                <!--<TextBlock Style="{StaticResource MediumMedium}"
+                                           Text="{Binding UserReview.ShelfNames}"
+                                           Margin="12,0,0,12" />-->
+
+                                <!--
+                                In this section we should eithier see what shelf the book belongs to
+                                or add an option to add it to a shelf.
+                                -->
+                                <HyperlinkButton Content="{Binding UserReview.ShelfNames}"
+                                                 Style="{StaticResource HyperlinkAccentStyle}"
+                                                 FontSize="{StaticResource PhoneFontSizeLarge}"
+                                                 NavigateUri="{Binding ShelfLocalUri}"/>
+                            </StackPanel>
+                        </Grid>
+
+                        <!-- details -->
+                        <StackPanel Grid.Row="1"
+                                    Margin="0,12,0,0">
+
+                            <!-- user -->
+                            <!--<TextBlock Style="{StaticResource ExtraLargeHigh}" Text="shelves" />
+                            <TextBlock Style="{StaticResource MediumMedium}"
+                                       Text="{Binding UserReview.ShelfNames}"
+                                       Margin="12,0,0,12" />-->
+
+                            <!-- general information -->
+                            <TextBlock Style="{StaticResource ExtraLargeHigh}"
+                                       Text="description" />
+                            <TextBlock Style="{StaticResource MediumMedium}"
+                                       TextWrapping="Wrap"
+                                       Text="{Binding Book.Description, Converter={StaticResource HtmlSanitizer}}"
+                                       Margin="12,0,0,12" />
+                            <!--<TextBlock Style="{StaticResource ExtraLargeHigh}"
+                                       Text="publisher" />
+                            <TextBlock Style="{StaticResource MediumMedium}"
+                                       Text="{Binding Book.Publisher}"
+                                       Margin="12,0,0,12" />-->
+                        </StackPanel>
+                    </Grid>
+                </ScrollViewer>
+            </controls:PivotItem>
+
+        </controls:Pivot>
+
+        <!-- Application Bar -->
+        <!--<bar:ApplicationBarWrapper>
+            <bar:ApplicationBarWrapperIconButton
+                Text="update"
+                Visibility="Collapsed"
+                IconUri="/Assets/ApplicationBar/appbar.edit.rest.png"
+                Command="{Binding UpdateProgressCommand}" />
+            <bar:ApplicationBarWrapperIconButton
+                Text="deets"
+                Visibility="Visible" />
+        </bar:ApplicationBarWrapper>-->
+    </Grid>
+
+
+
+</mvvm:ViewBase>

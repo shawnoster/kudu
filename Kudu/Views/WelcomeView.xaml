@@ -1,0 +1,58 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Kudu.Views.WelcomeView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:viewmodel="clr-namespace:Kudu.ViewModels"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True"    
+    Style="{StaticResource TransitionPageStyle}">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Kudu;component/Assets/WelcomeBackgroundDark.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="{Binding Resources.AppTitle}" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <StackPanel Grid.Row="1" Margin="12,0,12,0">
+            <RichTextBox>
+                <Paragraph>Welcome to Kudu, an app to manage your Goodreads account in the wild.</Paragraph>
+                <Paragraph />
+                <Paragraph>Before you get cracking you'll need to link your Goodreads account with Kudu.  If you don't have an account yet click the signup link at the bottom to create a free account.</Paragraph>
+            </RichTextBox>
+
+            <Button 
+                x:Name="LinkButton"
+                Margin="12"
+                Content="link Goodreads account"
+                Click="LinkButton_Click"/>
+
+        </StackPanel>
+
+        <HyperlinkButton Grid.Row="2"
+            NavigateUri="http://goodreads.com" 
+            TargetName="_blank" 
+            Content="signup for a Goodreads account"
+            Margin="12,0,12, 95"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

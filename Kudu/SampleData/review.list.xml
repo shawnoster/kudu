@@ -1,0 +1,174 @@
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+    <key><![CDATA[vdVu4GIH2tBIUe5YXbQkg]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  <reviews start="1" end="3" total="3">
+    <review>
+      <id>280057158</id>
+      <book>
+        <id type="integer">1137215</id>
+        <isbn>0765318415</isbn>
+        <isbn13>9780765318411</isbn13>
+        <text_reviews_count type="integer">1651</text_reviews_count>
+        <title><![CDATA[Boneshaker (The Clockwork Century, #1)]]></title>
+        <image_url>http://photo.goodreads.com/books/1312047238m/1137215.jpg</image_url>
+        <small_image_url>http://photo.goodreads.com/books/1312047238s/1137215.jpg</small_image_url>
+        <link>http://www.goodreads.com/book/show/1137215.Boneshaker</link>
+        <num_pages>416</num_pages>
+        <format>Paperback</format>
+        <edition_information></edition_information>
+        <publisher></publisher>
+        <publication_day>29</publication_day>
+        <publication_year>2009</publication_year>
+        <publication_month>9</publication_month>
+        <average_rating>3.57</average_rating>
+        <ratings_count>7478</ratings_count>
+        <description><![CDATA[Cherie Priest's much-anticipated steampunk debut has finally arrived in the form of a paperback original. Its plot features the sort of calibrated suspense that readers of her <em>Four and Twenty Blackbirds</em> would expect. <em>Boneshaker</em> derives its title from the Bone-Shaking Drill Engine, a device designed to give Russian prospectors a leg up in the race for Klondike gold. Unfortunately, there was one hitch: On its trial run, the Boneshaker went haywire and, long story short, turned much of Seattle into a city of the dead. Now, 16 years later, a teenage boy decides to find out what is behind that mysterious wall. Can his mother save him in time? Zombie lit of the first order.]]></description>
+        <authors>
+          <author>
+            <id>221253</id>
+            <name><![CDATA[Cherie Priest]]></name>
+            <image_url><![CDATA[http://photo.goodreads.com/authors/1263959704p5/221253.jpg]]></image_url>
+            <small_image_url><![CDATA[http://photo.goodreads.com/authors/1263959704p2/221253.jpg]]></small_image_url>
+            <link><![CDATA[http://www.goodreads.com/author/show/221253.Cherie_Priest]]></link>
+            <average_rating>3.69</average_rating>
+            <ratings_count>15007</ratings_count>
+            <text_reviews_count>3328</text_reviews_count>
+          </author>
+        </authors>
+        <published>2009</published>
+      </book>
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+      <shelves>
+        <shelf name="currently-reading" />
+      </shelves>
+      <recommended_for><![CDATA[]]></recommended_for>
+      <recommended_by><![CDATA[]]></recommended_by>
+      <started_at>Sat Feb 18 20:04:08 -0800 2012</started_at>
+      <read_at></read_at>
+      <date_added>Sat Feb 18 20:04:08 -0800 2012</date_added>
+      <date_updated>Sat Feb 18 20:04:08 -0800 2012</date_updated>
+      <read_count></read_count>
+      <body><![CDATA[]]></body>
+      <comments_count>0</comments_count>
+      <url><![CDATA[http://www.goodreads.com/review/show/280057158]]></url>
+      <link><![CDATA[http://www.goodreads.com/review/show/280057158]]></link>
+      <owned>0</owned>
+    </review>
+    <review>
+      <id>273086470</id>
+      <book>
+        <id type="integer">4703553</id>
+        <isbn>057507793X</isbn>
+        <isbn13>9780575077935</isbn13>
+        <text_reviews_count type="integer">84</text_reviews_count>
+        <title><![CDATA[The Cold Commands (A Land Fit for Heroes, #2)]]></title>
+        <image_url>http://photo.goodreads.com/books/1318443315m/4703553.jpg</image_url>
+        <small_image_url>http://photo.goodreads.com/books/1318443315s/4703553.jpg</small_image_url>
+        <link>http://www.goodreads.com/book/show/4703553-the-cold-commands</link>
+        <num_pages>407</num_pages>
+        <format>Hardcover</format>
+        <edition_information></edition_information>
+        <publisher></publisher>
+        <publication_day>13</publication_day>
+        <publication_year>2011</publication_year>
+        <publication_month>10</publication_month>
+        <average_rating>3.86</average_rating>
+        <ratings_count>361</ratings_count>
+        <description><![CDATA[Ringil Eskiath, scarred wielder of the kiriath-forged broadsword Ravensfriend, is a man on the run from his past and the family who have disowned him, from the slave trade magnates of Trelayne who want him dead, and apparently from the dark gods themselves, who are taking an interest but making no more sense than they ever have. Outlawed and exiled from his ancestral home in the north, Ringil has only one place left to turn Yhelteth, city heart of the southern Empire, where perhaps he can seek asylum with the kiriath half-breed Archeth Indamaninarmal, former war comrade and now high-up advisor to the Emperor Jhiral Khimran II. But Archeth Indamaninarmal has problems of her own to contend with, as does her house guest, bodyguard and one time steppe nomad Egar the Dragonbane. And far from gaining the respite he is seeks, Ringil will instead find himself implicated in fresh schemes and doubtful allegiances no safer than those he has left behind. Old enemies are stirring, the old order is rotted through and crumbling, and though no-one yet knows it, the city of Yhelteth is about to explode.]]></description>
+        <authors>
+          <author>
+            <id>16496</id>
+            <name><![CDATA[Richard K. Morgan]]></name>
+            <image_url><![CDATA[http://photo.goodreads.com/authors/1175224722p5/16496.jpg]]></image_url>
+            <small_image_url><![CDATA[http://photo.goodreads.com/authors/1175224722p2/16496.jpg]]></small_image_url>
+            <link><![CDATA[http://www.goodreads.com/author/show/16496.Richard_K_Morgan]]></link>
+            <average_rating>3.92</average_rating>
+            <ratings_count>20555</ratings_count>
+            <text_reviews_count>1824</text_reviews_count>
+          </author>
+        </authors>
+        <published>2011</published>
+      </book>
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+      <shelves>
+        <shelf name="currently-reading" />
+      </shelves>
+      <recommended_for><![CDATA[]]></recommended_for>
+      <recommended_by><![CDATA[]]></recommended_by>
+      <started_at>Mon Feb 06 03:15:11 -0800 2012</started_at>
+      <read_at></read_at>
+      <date_added>Mon Feb 06 03:14:58 -0800 2012</date_added>
+      <date_updated>Mon Feb 06 03:15:11 -0800 2012</date_updated>
+      <read_count></read_count>
+      <body><![CDATA[]]></body>
+      <comments_count>0</comments_count>
+      <url><![CDATA[http://www.goodreads.com/review/show/273086470]]></url>
+      <link><![CDATA[http://www.goodreads.com/review/show/273086470]]></link>
+      <owned>0</owned>
+    </review>
+    <review>
+      <id>273086134</id>
+      <book>
+        <id type="integer">7431670</id>
+        <isbn>0805090916</isbn>
+        <isbn13>9780805090918</isbn13>
+        <text_reviews_count type="integer">125</text_reviews_count>
+        <title><![CDATA[Elegy for April (Quirke, #3)]]></title>
+        <image_url>http://photo.goodreads.com/books/1312062239m/7431670.jpg</image_url>
+        <small_image_url>http://photo.goodreads.com/books/1312062239s/7431670.jpg</small_image_url>
+        <link>http://www.goodreads.com/book/show/7431670-elegy-for-april</link>
+        <num_pages>304</num_pages>
+        <format>Hardcover</format>
+        <edition_information></edition_information>
+        <publisher></publisher>
+        <publication_day>13</publication_day>
+        <publication_year>2010</publication_year>
+        <publication_month>4</publication_month>
+        <average_rating>3.44</average_rating>
+        <ratings_count>439</ratings_count>
+        <description><![CDATA[<p><strong>Quirke&#8212;the hard-drinking, insatiably curious Dublin pathologist&#8212;is back, and he's determined to find his daughter's best friend, a well-connected young doctor</strong></p><p>April Latimer has vanished. A junior doctor at a local hospital, she is something of a scandal in the conservative and highly patriarchal society of 1950s Dublin. Though her family is one of the most respected in the city, she is known for being independent-minded; her taste in men, for instance, is decidedly unconventional.</p><p>Now April has disappeared, and her friend Phoebe Griffin suspects the worst. Frantic, Phoebe seeks out Quirke, her brilliant but erratic father, and asks him for help. Sober again after intensive treatment for alcoholism, Quirke enlists his old sparring partner, Detective Inspector Hackett, in the search for the missing young woman. In their separate ways the two men follow April's trail through some of the darker byways of the city to uncover crucial information on her whereabouts. And as Quirke becomes deeply involved in April's murky story, he encounters complicated and ugly truths about family savagery, Catholic ruthlessness, and race hatred.</p><p>Both an absorbing crime novel and a brilliant portrait of the difficult and relentless love between a father and his daughter, this is Benjamin Black at his sparkling best.</p>]]></description>
+        <authors>
+          <author>
+            <id>116405</id>
+            <name><![CDATA[Benjamin Black]]></name>
+            <image_url><![CDATA[http://photo.goodreads.com/authors/1259046400p5/116405.jpg]]></image_url>
+            <small_image_url><![CDATA[http://photo.goodreads.com/authors/1259046400p2/116405.jpg]]></small_image_url>
+            <link><![CDATA[http://www.goodreads.com/author/show/116405.Benjamin_Black]]></link>
+            <average_rating>3.33</average_rating>
+            <ratings_count>4635</ratings_count>
+            <text_reviews_count>1076</text_reviews_count>
+          </author>
+        </authors>
+        <published>2010</published>
+      </book>
+      <rating>0</rating>
+      <votes>0</votes>
+      <spoiler_flag>false</spoiler_flag>
+      <spoilers_state>none</spoilers_state>
+      <shelves>
+        <shelf name="currently-reading" />
+      </shelves>
+      <recommended_for><![CDATA[]]></recommended_for>
+      <recommended_by><![CDATA[]]></recommended_by>
+      <started_at>Mon Feb 06 03:12:55 -0800 2012</started_at>
+      <read_at></read_at>
+      <date_added>Mon Feb 06 03:12:55 -0800 2012</date_added>
+      <date_updated>Mon Feb 06 03:12:55 -0800 2012</date_updated>
+      <read_count></read_count>
+      <body><![CDATA[]]></body>
+      <comments_count>0</comments_count>
+      <url><![CDATA[http://www.goodreads.com/review/show/273086134]]></url>
+      <link><![CDATA[http://www.goodreads.com/review/show/273086134]]></link>
+      <owned>0</owned>
+    </review>
+  </reviews>
+</GoodreadsResponse>
