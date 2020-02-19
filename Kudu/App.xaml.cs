@@ -13,6 +13,8 @@ namespace Kudu
 {
     public partial class App : Application
     {
+        // API keys have been revoked, not a security risk but also
+        // won't work without fetching a new dev token
         private static string ConsumerKey = "t6jiT5Rr6zXqL450555b6Q";
         private static string ConsumerSecret = "BjNOEop1UxEiYtuupYe4zO1zeW9pIb5SV3qfV6zYE";
 
